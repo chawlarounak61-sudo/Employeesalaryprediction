@@ -1,0 +1,1001 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Area,Salary,Data_Label
+60,Male,Bachelor's,HR Specialist,26,Hyderabad,3506000,Synthetic Demonstration Data
+25,Male,Bachelor's,Data Scientist,2,Bangalore,1660000,Synthetic Demonstration Data
+61,Male,High School,HR Specialist,32,Delhi-NCR,3915000,Synthetic Demonstration Data
+24,Female,Bachelor's,Software Engineer,2,Remote / Tier 2 Cities,1260000,Synthetic Demonstration Data
+30,Male,Bachelor's,Software Engineer,7,Remote / Tier 2 Cities,1304000,Synthetic Demonstration Data
+61,Female,Bachelor's,Financial Analyst,28,Bangalore,4344000,Synthetic Demonstration Data
+58,Male,Bachelor's,Product Manager,28,Bangalore,4479000,Synthetic Demonstration Data
+46,Male,Master's,Data Scientist,12,Delhi-NCR,2731000,Synthetic Demonstration Data
+54,Male,Master's,Data Scientist,23,Mumbai,4213000,Synthetic Demonstration Data
+51,Female,Master's,Data Analyst,21,Bangalore,3652000,Synthetic Demonstration Data
+56,Female,Bachelor's,Software Engineer,21,Mumbai,3497000,Synthetic Demonstration Data
+28,Male,Bachelor's,Data Scientist,6,Remote / Tier 2 Cities,1805000,Synthetic Demonstration Data
+37,Female,Bachelor's,Product Manager,11,Mumbai,2741000,Synthetic Demonstration Data
+39,Female,Bachelor's,Product Manager,10,Hyderabad,2780000,Synthetic Demonstration Data
+27,Male,High School,Senior Software Engineer,4,Bangalore,1653000,Synthetic Demonstration Data
+54,Female,Bachelor's,Engineering Manager,22,Mumbai,4167000,Synthetic Demonstration Data
+62,Male,Bachelor's,Machine Learning Engineer,30,Pune,4204000,Synthetic Demonstration Data
+53,Female,Bachelor's,Data Analyst,27,Mumbai,3784000,Synthetic Demonstration Data
+23,Female,Bachelor's,HR Specialist,0,Remote / Tier 2 Cities,768000,Synthetic Demonstration Data
+53,Female,PhD,Senior Software Engineer,20,Remote / Tier 2 Cities,3704000,Synthetic Demonstration Data
+53,Other,Bachelor's,Software Engineer,21,Delhi-NCR,3340000,Synthetic Demonstration Data
+59,Male,Bachelor's,Senior Software Engineer,29,Pune,4798000,Synthetic Demonstration Data
+50,Female,Bachelor's,Financial Analyst,19,Mumbai,3248000,Synthetic Demonstration Data
+28,Female,Bachelor's,Data Analyst,5,Pune,1178000,Synthetic Demonstration Data
+46,Female,Bachelor's,HR Specialist,18,Bangalore,2452000,Synthetic Demonstration Data
+29,Other,Master's,Senior Software Engineer,5,Bangalore,2225000,Synthetic Demonstration Data
+45,Male,Bachelor's,Senior Software Engineer,17,Hyderabad,3169000,Synthetic Demonstration Data
+43,Male,Master's,Software Engineer,9,Bangalore,2660000,Synthetic Demonstration Data
+28,Female,PhD,HR Specialist,1,Mumbai,1918000,Synthetic Demonstration Data
+41,Female,Bachelor's,Data Analyst,17,Bangalore,2570000,Synthetic Demonstration Data
+49,Male,Master's,Senior Software Engineer,16,Delhi-NCR,3124000,Synthetic Demonstration Data
+62,Male,PhD,Data Scientist,29,Chennai,4460000,Synthetic Demonstration Data
+35,Male,Master's,Engineering Manager,8,Bangalore,3017000,Synthetic Demonstration Data
+56,Male,Bachelor's,HR Specialist,27,Remote / Tier 2 Cities,2939000,Synthetic Demonstration Data
+53,Female,Bachelor's,HR Specialist,22,Bangalore,3428000,Synthetic Demonstration Data
+48,Male,Bachelor's,Product Manager,21,Chennai,3377000,Synthetic Demonstration Data
+58,Female,Bachelor's,Senior Software Engineer,28,Mumbai,4117000,Synthetic Demonstration Data
+49,Female,Bachelor's,Senior Software Engineer,20,Mumbai,3693000,Synthetic Demonstration Data
+37,Male,Bachelor's,Financial Analyst,11,Hyderabad,2014000,Synthetic Demonstration Data
+44,Female,Bachelor's,DevOps Engineer,15,Mumbai,2807000,Synthetic Demonstration Data
+50,Female,High School,Financial Analyst,22,Mumbai,3356000,Synthetic Demonstration Data
+58,Female,PhD,Machine Learning Engineer,28,Pune,4970000,Synthetic Demonstration Data
+40,Female,Master's,HR Specialist,8,Delhi-NCR,1536000,Synthetic Demonstration Data
+36,Female,Master's,Senior Software Engineer,8,Bangalore,2558000,Synthetic Demonstration Data
+50,Female,Master's,Machine Learning Engineer,16,Bangalore,3704000,Synthetic Demonstration Data
+29,Male,PhD,Data Analyst,0,Delhi-NCR,1269000,Synthetic Demonstration Data
+53,Female,Master's,Software Engineer,22,Bangalore,3842000,Synthetic Demonstration Data
+54,Male,Bachelor's,Software Engineer,29,Delhi-NCR,3924000,Synthetic Demonstration Data
+27,Female,High School,HR Specialist,6,Chennai,1798000,Synthetic Demonstration Data
+26,Female,Master's,DevOps Engineer,1,Bangalore,1508000,Synthetic Demonstration Data
+62,Male,PhD,Product Manager,27,Mumbai,5082000,Synthetic Demonstration Data
+52,Female,Master's,Financial Analyst,19,Hyderabad,3242000,Synthetic Demonstration Data
+62,Male,Bachelor's,Financial Analyst,34,Bangalore,4528000,Synthetic Demonstration Data
+57,Female,Bachelor's,HR Specialist,27,Bangalore,3544000,Synthetic Demonstration Data
+62,Female,Master's,HR Specialist,31,Mumbai,4381000,Synthetic Demonstration Data
+60,Male,Bachelor's,Senior Software Engineer,31,Hyderabad,4499000,Synthetic Demonstration Data
+48,Female,Bachelor's,Engineering Manager,18,Mumbai,3683000,Synthetic Demonstration Data
+31,Male,PhD,HR Specialist,0,Delhi-NCR,1221000,Synthetic Demonstration Data
+62,Male,Master's,Data Analyst,29,Pune,4504000,Synthetic Demonstration Data
+40,Male,Master's,HR Specialist,10,Hyderabad,2177000,Synthetic Demonstration Data
+42,Female,Master's,Data Analyst,16,Bangalore,2943000,Synthetic Demonstration Data
+33,Male,Master's,Senior Software Engineer,6,Chennai,2599000,Synthetic Demonstration Data
+24,Female,Bachelor's,Data Analyst,0,Bangalore,688000,Synthetic Demonstration Data
+60,Male,Bachelor's,Data Analyst,29,Pune,4230000,Synthetic Demonstration Data
+34,Male,PhD,Data Scientist,2,Mumbai,2358000,Synthetic Demonstration Data
+36,Female,High School,HR Specialist,13,Chennai,2070000,Synthetic Demonstration Data
+26,Male,Master's,Data Analyst,1,Delhi-NCR,1572000,Synthetic Demonstration Data
+55,Male,Master's,Senior Software Engineer,18,Bangalore,3679000,Synthetic Demonstration Data
+29,Male,Master's,Data Analyst,0,Bangalore,1750000,Synthetic Demonstration Data
+35,Female,PhD,Engineering Manager,8,Bangalore,3723000,Synthetic Demonstration Data
+55,Female,PhD,Data Scientist,19,Hyderabad,3882000,Synthetic Demonstration Data
+45,Female,High School,Software Engineer,20,Bangalore,3047000,Synthetic Demonstration Data
+37,Female,Master's,HR Specialist,8,Pune,1703000,Synthetic Demonstration Data
+59,Male,Bachelor's,Senior Software Engineer,25,Chennai,3811000,Synthetic Demonstration Data
+38,Male,Master's,Product Manager,9,Pune,3305000,Synthetic Demonstration Data
+60,Male,Bachelor's,Financial Analyst,31,Hyderabad,3714000,Synthetic Demonstration Data
+61,Female,Bachelor's,Machine Learning Engineer,31,Chennai,4543000,Synthetic Demonstration Data
+34,Male,Bachelor's,Product Manager,8,Hyderabad,2569000,Synthetic Demonstration Data
+36,Male,Bachelor's,Machine Learning Engineer,11,Remote / Tier 2 Cities,2059000,Synthetic Demonstration Data
+35,Male,Bachelor's,Product Manager,10,Delhi-NCR,2414000,Synthetic Demonstration Data
+52,Male,Bachelor's,Data Scientist,22,Chennai,3613000,Synthetic Demonstration Data
+43,Female,Bachelor's,Financial Analyst,12,Mumbai,2296000,Synthetic Demonstration Data
+46,Female,Bachelor's,Product Manager,20,Hyderabad,3429000,Synthetic Demonstration Data
+49,Female,Master's,Senior Software Engineer,20,Bangalore,3541000,Synthetic Demonstration Data
+28,Female,Bachelor's,Data Analyst,6,Bangalore,1743000,Synthetic Demonstration Data
+38,Female,Master's,Software Engineer,11,Chennai,2247000,Synthetic Demonstration Data
+49,Female,Bachelor's,Product Manager,20,Pune,3791000,Synthetic Demonstration Data
+45,Female,Master's,Financial Analyst,19,Delhi-NCR,3335000,Synthetic Demonstration Data
+47,Female,Bachelor's,Software Engineer,15,Mumbai,2863000,Synthetic Demonstration Data
+44,Female,Bachelor's,Data Scientist,15,Chennai,2670000,Synthetic Demonstration Data
+34,Female,Bachelor's,Senior Software Engineer,9,Mumbai,2153000,Synthetic Demonstration Data
+49,Female,Bachelor's,HR Specialist,20,Bangalore,3114000,Synthetic Demonstration Data
+49,Male,Master's,Financial Analyst,21,Hyderabad,3169000,Synthetic Demonstration Data
+35,Male,Bachelor's,Data Scientist,10,Mumbai,2211000,Synthetic Demonstration Data
+25,Male,Bachelor's,DevOps Engineer,1,Bangalore,1270000,Synthetic Demonstration Data
+23,Female,Bachelor's,Software Engineer,1,Remote / Tier 2 Cities,815000,Synthetic Demonstration Data
+37,Male,Master's,Software Engineer,8,Pune,1802000,Synthetic Demonstration Data
+37,Male,PhD,Data Analyst,6,Bangalore,2373000,Synthetic Demonstration Data
+47,Male,Bachelor's,Software Engineer,18,Pune,3022000,Synthetic Demonstration Data
+53,Male,Bachelor's,Data Analyst,18,Delhi-NCR,2810000,Synthetic Demonstration Data
+28,Male,Master's,Product Manager,4,Bangalore,2319000,Synthetic Demonstration Data
+31,Male,Master's,Software Engineer,3,Chennai,1695000,Synthetic Demonstration Data
+54,Male,Master's,Machine Learning Engineer,21,Hyderabad,3662000,Synthetic Demonstration Data
+31,Male,Bachelor's,Data Analyst,9,Bangalore,1921000,Synthetic Demonstration Data
+39,Female,Bachelor's,Product Manager,11,Mumbai,2875000,Synthetic Demonstration Data
+57,Male,Bachelor's,Data Analyst,22,Hyderabad,3291000,Synthetic Demonstration Data
+33,Male,Bachelor's,Senior Software Engineer,4,Chennai,1599000,Synthetic Demonstration Data
+62,Female,Bachelor's,Engineering Manager,30,Bangalore,5240000,Synthetic Demonstration Data
+51,Female,Master's,HR Specialist,18,Hyderabad,2908000,Synthetic Demonstration Data
+18,Male,High School,Software Engineer,0,Pune,966000,Synthetic Demonstration Data
+47,Male,Bachelor's,Software Engineer,16,Mumbai,2415000,Synthetic Demonstration Data
+56,Female,Bachelor's,Engineering Manager,21,Mumbai,4107000,Synthetic Demonstration Data
+27,Male,Bachelor's,Software Engineer,1,Bangalore,1509000,Synthetic Demonstration Data
+45,Other,Bachelor's,Senior Software Engineer,15,Delhi-NCR,2933000,Synthetic Demonstration Data
+52,Female,PhD,Product Manager,22,Delhi-NCR,4331000,Synthetic Demonstration Data
+39,Female,Bachelor's,Machine Learning Engineer,10,Hyderabad,2536000,Synthetic Demonstration Data
+55,Female,Master's,Machine Learning Engineer,20,Delhi-NCR,3901000,Synthetic Demonstration Data
+39,Female,Bachelor's,Engineering Manager,12,Remote / Tier 2 Cities,3154000,Synthetic Demonstration Data
+31,Male,Master's,HR Specialist,7,Pune,1479000,Synthetic Demonstration Data
+50,Female,High School,Software Engineer,28,Pune,3778000,Synthetic Demonstration Data
+39,Male,Master's,HR Specialist,15,Delhi-NCR,2408000,Synthetic Demonstration Data
+32,Female,Bachelor's,Senior Software Engineer,9,Chennai,2308000,Synthetic Demonstration Data
+30,Male,Bachelor's,Engineering Manager,8,Hyderabad,2928000,Synthetic Demonstration Data
+28,Female,Bachelor's,Data Scientist,6,Delhi-NCR,1823000,Synthetic Demonstration Data
+53,Other,Bachelor's,Engineering Manager,23,Bangalore,4116000,Synthetic Demonstration Data
+45,Male,PhD,Machine Learning Engineer,14,Bangalore,3156000,Synthetic Demonstration Data
+31,Male,Master's,Senior Software Engineer,7,Bangalore,2664000,Synthetic Demonstration Data
+60,Male,Master's,Product Manager,32,Pune,5160000,Synthetic Demonstration Data
+58,Female,Master's,Senior Software Engineer,26,Bangalore,4588000,Synthetic Demonstration Data
+48,Male,Bachelor's,DevOps Engineer,23,Bangalore,3457000,Synthetic Demonstration Data
+59,Female,Bachelor's,Data Scientist,27,Remote / Tier 2 Cities,4194000,Synthetic Demonstration Data
+47,Male,Master's,Data Analyst,17,Delhi-NCR,3021000,Synthetic Demonstration Data
+38,Male,Bachelor's,Software Engineer,16,Mumbai,2717000,Synthetic Demonstration Data
+38,Female,Bachelor's,Data Analyst,16,Bangalore,2461000,Synthetic Demonstration Data
+53,Female,Bachelor's,Machine Learning Engineer,25,Bangalore,3969000,Synthetic Demonstration Data
+38,Male,PhD,Financial Analyst,10,Hyderabad,2587000,Synthetic Demonstration Data
+29,Male,Master's,Financial Analyst,5,Hyderabad,1967000,Synthetic Demonstration Data
+35,Male,High School,DevOps Engineer,13,Bangalore,2098000,Synthetic Demonstration Data
+31,Female,Master's,Software Engineer,7,Hyderabad,1971000,Synthetic Demonstration Data
+58,Female,Master's,Senior Software Engineer,27,Pune,3821000,Synthetic Demonstration Data
+52,Female,Bachelor's,Engineering Manager,22,Delhi-NCR,4104000,Synthetic Demonstration Data
+37,Male,Bachelor's,Financial Analyst,13,Mumbai,2339000,Synthetic Demonstration Data
+36,Female,Bachelor's,Machine Learning Engineer,12,Remote / Tier 2 Cities,2491000,Synthetic Demonstration Data
+52,Male,Master's,HR Specialist,20,Mumbai,3101000,Synthetic Demonstration Data
+45,Female,Bachelor's,Senior Software Engineer,15,Mumbai,3182000,Synthetic Demonstration Data
+60,Female,Bachelor's,Data Scientist,28,Mumbai,4340000,Synthetic Demonstration Data
+59,Male,Bachelor's,DevOps Engineer,27,Bangalore,3834000,Synthetic Demonstration Data
+48,Male,Master's,HR Specialist,17,Delhi-NCR,2919000,Synthetic Demonstration Data
+31,Male,Bachelor's,Financial Analyst,6,Bangalore,1594000,Synthetic Demonstration Data
+40,Male,High School,HR Specialist,20,Pune,2509000,Synthetic Demonstration Data
+48,Female,Master's,Software Engineer,21,Pune,3815000,Synthetic Demonstration Data
+38,Female,Bachelor's,Engineering Manager,11,Mumbai,3061000,Synthetic Demonstration Data
+34,Female,PhD,Data Analyst,4,Mumbai,2029000,Synthetic Demonstration Data
+34,Male,Bachelor's,HR Specialist,8,Bangalore,2067000,Synthetic Demonstration Data
+56,Female,Bachelor's,DevOps Engineer,28,Pune,3992000,Synthetic Demonstration Data
+39,Female,Master's,Product Manager,12,Chennai,3166000,Synthetic Demonstration Data
+55,Female,Master's,DevOps Engineer,22,Hyderabad,3689000,Synthetic Demonstration Data
+35,Male,Bachelor's,Data Analyst,7,Bangalore,1985000,Synthetic Demonstration Data
+61,Male,Bachelor's,Software Engineer,31,Mumbai,3980000,Synthetic Demonstration Data
+31,Male,Bachelor's,Data Analyst,9,Bangalore,1873000,Synthetic Demonstration Data
+41,Male,Bachelor's,Software Engineer,13,Hyderabad,2445000,Synthetic Demonstration Data
+22,Male,Bachelor's,Data Analyst,0,Bangalore,1489000,Synthetic Demonstration Data
+57,Female,Master's,DevOps Engineer,24,Mumbai,3456000,Synthetic Demonstration Data
+52,Female,Master's,Data Analyst,21,Delhi-NCR,3666000,Synthetic Demonstration Data
+47,Male,Master's,Senior Software Engineer,14,Pune,3229000,Synthetic Demonstration Data
+42,Male,PhD,Software Engineer,10,Mumbai,3122000,Synthetic Demonstration Data
+58,Male,Bachelor's,Data Scientist,27,Hyderabad,4031000,Synthetic Demonstration Data
+54,Other,Bachelor's,Engineering Manager,24,Delhi-NCR,4520000,Synthetic Demonstration Data
+47,Male,Master's,Financial Analyst,17,Pune,3108000,Synthetic Demonstration Data
+45,Female,Master's,Machine Learning Engineer,12,Bangalore,3000000,Synthetic Demonstration Data
+45,Female,Bachelor's,Software Engineer,17,Delhi-NCR,2858000,Synthetic Demonstration Data
+54,Female,Bachelor's,Machine Learning Engineer,26,Hyderabad,4408000,Synthetic Demonstration Data
+47,Male,Master's,HR Specialist,16,Chennai,2697000,Synthetic Demonstration Data
+58,Male,Bachelor's,Senior Software Engineer,24,Mumbai,3933000,Synthetic Demonstration Data
+23,Female,Bachelor's,Software Engineer,1,Bangalore,1393000,Synthetic Demonstration Data
+24,Female,High School,DevOps Engineer,6,Remote / Tier 2 Cities,1704000,Synthetic Demonstration Data
+53,Male,Bachelor's,Senior Software Engineer,21,Chennai,3729000,Synthetic Demonstration Data
+45,Male,Master's,Software Engineer,20,Chennai,3083000,Synthetic Demonstration Data
+44,Female,Bachelor's,Data Analyst,15,Bangalore,3105000,Synthetic Demonstration Data
+52,Male,Bachelor's,Data Scientist,24,Delhi-NCR,4103000,Synthetic Demonstration Data
+56,Female,Bachelor's,Product Manager,24,Hyderabad,4769000,Synthetic Demonstration Data
+38,Female,Bachelor's,Data Scientist,11,Bangalore,2164000,Synthetic Demonstration Data
+27,Female,Master's,Data Analyst,3,Hyderabad,1644000,Synthetic Demonstration Data
+58,Male,Bachelor's,Product Manager,29,Delhi-NCR,4563000,Synthetic Demonstration Data
+37,Male,Master's,Machine Learning Engineer,8,Mumbai,2076000,Synthetic Demonstration Data
+57,Female,Master's,Senior Software Engineer,23,Pune,3767000,Synthetic Demonstration Data
+60,Male,PhD,Senior Software Engineer,24,Pune,4147000,Synthetic Demonstration Data
+41,Female,Bachelor's,Product Manager,15,Hyderabad,3057000,Synthetic Demonstration Data
+58,Male,Bachelor's,DevOps Engineer,26,Mumbai,4026000,Synthetic Demonstration Data
+31,Male,Bachelor's,Software Engineer,4,Bangalore,1702000,Synthetic Demonstration Data
+42,Female,Bachelor's,DevOps Engineer,18,Remote / Tier 2 Cities,2383000,Synthetic Demonstration Data
+52,Male,Bachelor's,Product Manager,22,Pune,4041000,Synthetic Demonstration Data
+58,Female,Bachelor's,Software Engineer,26,Remote / Tier 2 Cities,3292000,Synthetic Demonstration Data
+40,Female,PhD,Senior Software Engineer,8,Delhi-NCR,2229000,Synthetic Demonstration Data
+62,Other,Master's,Software Engineer,30,Mumbai,3749000,Synthetic Demonstration Data
+38,Female,Bachelor's,DevOps Engineer,12,Bangalore,2513000,Synthetic Demonstration Data
+30,Female,Bachelor's,Senior Software Engineer,5,Hyderabad,1856000,Synthetic Demonstration Data
+48,Male,Bachelor's,Financial Analyst,19,Chennai,2994000,Synthetic Demonstration Data
+32,Female,Master's,Senior Software Engineer,4,Hyderabad,2236000,Synthetic Demonstration Data
+47,Male,Bachelor's,DevOps Engineer,19,Mumbai,3281000,Synthetic Demonstration Data
+25,Female,Bachelor's,Data Analyst,3,Chennai,1307000,Synthetic Demonstration Data
+47,Male,Master's,Financial Analyst,19,Mumbai,2922000,Synthetic Demonstration Data
+41,Male,Bachelor's,DevOps Engineer,11,Delhi-NCR,1859000,Synthetic Demonstration Data
+58,Female,Bachelor's,Data Scientist,28,Bangalore,4036000,Synthetic Demonstration Data
+28,Male,Master's,Product Manager,3,Delhi-NCR,2159000,Synthetic Demonstration Data
+59,Male,Bachelor's,Data Scientist,31,Mumbai,4687000,Synthetic Demonstration Data
+46,Female,Master's,Data Analyst,18,Remote / Tier 2 Cities,2764000,Synthetic Demonstration Data
+21,Female,High School,HR Specialist,1,Hyderabad,909000,Synthetic Demonstration Data
+50,Female,Bachelor's,Machine Learning Engineer,21,Bangalore,3905000,Synthetic Demonstration Data
+34,Female,Bachelor's,Software Engineer,6,Hyderabad,1644000,Synthetic Demonstration Data
+28,Male,Bachelor's,Data Analyst,6,Bangalore,1471000,Synthetic Demonstration Data
+30,Female,Bachelor's,Engineering Manager,8,Mumbai,2220000,Synthetic Demonstration Data
+49,Male,Bachelor's,Software Engineer,18,Hyderabad,2763000,Synthetic Demonstration Data
+39,Male,Bachelor's,Data Scientist,8,Pune,2246000,Synthetic Demonstration Data
+46,Male,Bachelor's,Data Analyst,18,Pune,2550000,Synthetic Demonstration Data
+56,Male,Bachelor's,DevOps Engineer,31,Bangalore,3922000,Synthetic Demonstration Data
+36,Female,Bachelor's,Senior Software Engineer,9,Bangalore,2059000,Synthetic Demonstration Data
+44,Female,Bachelor's,Machine Learning Engineer,14,Remote / Tier 2 Cities,3183000,Synthetic Demonstration Data
+40,Female,Bachelor's,Data Analyst,9,Bangalore,2253000,Synthetic Demonstration Data
+59,Male,Master's,Data Analyst,24,Mumbai,3494000,Synthetic Demonstration Data
+25,Male,Bachelor's,Data Scientist,2,Bangalore,1681000,Synthetic Demonstration Data
+30,Male,Master's,Senior Software Engineer,4,Delhi-NCR,1745000,Synthetic Demonstration Data
+33,Male,PhD,Machine Learning Engineer,5,Mumbai,2401000,Synthetic Demonstration Data
+40,Female,Bachelor's,Product Manager,13,Bangalore,3088000,Synthetic Demonstration Data
+41,Female,Bachelor's,Software Engineer,14,Remote / Tier 2 Cities,2487000,Synthetic Demonstration Data
+58,Female,Master's,Product Manager,25,Hyderabad,4321000,Synthetic Demonstration Data
+25,Female,Master's,Data Analyst,0,Bangalore,992000,Synthetic Demonstration Data
+50,Female,Bachelor's,Product Manager,21,Pune,4270000,Synthetic Demonstration Data
+37,Male,Master's,Machine Learning Engineer,8,Remote / Tier 2 Cities,2624000,Synthetic Demonstration Data
+51,Male,Master's,Engineering Manager,18,Pune,4193000,Synthetic Demonstration Data
+35,Male,High School,Software Engineer,15,Bangalore,2610000,Synthetic Demonstration Data
+45,Male,Bachelor's,Engineering Manager,15,Chennai,3517000,Synthetic Demonstration Data
+31,Female,Bachelor's,Data Scientist,9,Bangalore,1511000,Synthetic Demonstration Data
+49,Female,Bachelor's,Software Engineer,20,Pune,2602000,Synthetic Demonstration Data
+23,Female,Bachelor's,Software Engineer,0,Hyderabad,1158000,Synthetic Demonstration Data
+28,Female,High School,Financial Analyst,9,Delhi-NCR,2108000,Synthetic Demonstration Data
+51,Female,Bachelor's,Machine Learning Engineer,20,Bangalore,3563000,Synthetic Demonstration Data
+40,Other,Master's,Software Engineer,10,Delhi-NCR,2240000,Synthetic Demonstration Data
+59,Male,Bachelor's,DevOps Engineer,27,Pune,4129000,Synthetic Demonstration Data
+60,Male,Bachelor's,Data Scientist,29,Mumbai,4352000,Synthetic Demonstration Data
+42,Male,Bachelor's,Software Engineer,13,Mumbai,2590000,Synthetic Demonstration Data
+46,Female,Bachelor's,Senior Software Engineer,17,Bangalore,3100000,Synthetic Demonstration Data
+48,Female,Bachelor's,DevOps Engineer,21,Delhi-NCR,3055000,Synthetic Demonstration Data
+37,Female,Master's,DevOps Engineer,10,Pune,2416000,Synthetic Demonstration Data
+44,Male,Master's,Software Engineer,14,Mumbai,3143000,Synthetic Demonstration Data
+46,Male,Bachelor's,Machine Learning Engineer,15,Bangalore,3151000,Synthetic Demonstration Data
+49,Female,Master's,Product Manager,17,Hyderabad,3594000,Synthetic Demonstration Data
+48,Male,High School,Software Engineer,20,Remote / Tier 2 Cities,2441000,Synthetic Demonstration Data
+29,Female,Master's,DevOps Engineer,5,Bangalore,2037000,Synthetic Demonstration Data
+36,Male,High School,Machine Learning Engineer,15,Bangalore,2726000,Synthetic Demonstration Data
+29,Female,Master's,Data Scientist,5,Bangalore,2458000,Synthetic Demonstration Data
+33,Male,Bachelor's,Software Engineer,5,Remote / Tier 2 Cities,1392000,Synthetic Demonstration Data
+55,Male,Bachelor's,HR Specialist,23,Delhi-NCR,3089000,Synthetic Demonstration Data
+58,Female,PhD,Senior Software Engineer,20,Mumbai,3997000,Synthetic Demonstration Data
+42,Male,Bachelor's,HR Specialist,17,Hyderabad,2424000,Synthetic Demonstration Data
+36,Female,Master's,Financial Analyst,9,Chennai,2478000,Synthetic Demonstration Data
+46,Male,Bachelor's,Software Engineer,17,Mumbai,2875000,Synthetic Demonstration Data
+47,Male,Master's,Financial Analyst,14,Bangalore,2377000,Synthetic Demonstration Data
+46,Female,Master's,Data Analyst,18,Delhi-NCR,3153000,Synthetic Demonstration Data
+39,Male,Master's,Data Analyst,12,Bangalore,2679000,Synthetic Demonstration Data
+61,Male,Master's,Senior Software Engineer,28,Bangalore,4224000,Synthetic Demonstration Data
+37,Female,Master's,DevOps Engineer,13,Bangalore,3422000,Synthetic Demonstration Data
+57,Female,Master's,Financial Analyst,26,Pune,4115000,Synthetic Demonstration Data
+27,Male,Master's,Financial Analyst,3,Delhi-NCR,1290000,Synthetic Demonstration Data
+48,Male,Master's,Senior Software Engineer,16,Bangalore,3069000,Synthetic Demonstration Data
+45,Male,Bachelor's,Engineering Manager,19,Delhi-NCR,3640000,Synthetic Demonstration Data
+38,Male,High School,Machine Learning Engineer,12,Delhi-NCR,2607000,Synthetic Demonstration Data
+50,Male,High School,Data Scientist,24,Pune,3882000,Synthetic Demonstration Data
+49,Female,Bachelor's,Software Engineer,20,Hyderabad,3244000,Synthetic Demonstration Data
+28,Female,Bachelor's,DevOps Engineer,5,Pune,1290000,Synthetic Demonstration Data
+32,Male,PhD,Software Engineer,0,Hyderabad,1701000,Synthetic Demonstration Data
+59,Male,PhD,Senior Software Engineer,20,Mumbai,3421000,Synthetic Demonstration Data
+60,Male,Bachelor's,HR Specialist,27,Hyderabad,3388000,Synthetic Demonstration Data
+58,Female,PhD,Machine Learning Engineer,25,Bangalore,4516000,Synthetic Demonstration Data
+34,Male,PhD,Data Scientist,5,Mumbai,2311000,Synthetic Demonstration Data
+21,Female,High School,Software Engineer,3,Chennai,945000,Synthetic Demonstration Data
+49,Male,Bachelor's,Senior Software Engineer,22,Hyderabad,3601000,Synthetic Demonstration Data
+40,Male,High School,Data Scientist,18,Mumbai,2755000,Synthetic Demonstration Data
+36,Other,Bachelor's,Product Manager,8,Delhi-NCR,2388000,Synthetic Demonstration Data
+58,Male,Bachelor's,Senior Software Engineer,24,Bangalore,3959000,Synthetic Demonstration Data
+40,Male,Master's,Data Analyst,8,Bangalore,2266000,Synthetic Demonstration Data
+27,Male,Master's,Machine Learning Engineer,3,Bangalore,2041000,Synthetic Demonstration Data
+56,Female,Bachelor's,Financial Analyst,23,Bangalore,3286000,Synthetic Demonstration Data
+44,Male,Bachelor's,Data Scientist,14,Hyderabad,2888000,Synthetic Demonstration Data
+23,Male,Bachelor's,HR Specialist,0,Delhi-NCR,741000,Synthetic Demonstration Data
+49,Female,Master's,Product Manager,17,Delhi-NCR,3896000,Synthetic Demonstration Data
+47,Male,Master's,HR Specialist,20,Bangalore,3044000,Synthetic Demonstration Data
+43,Female,Bachelor's,Senior Software Engineer,16,Hyderabad,2775000,Synthetic Demonstration Data
+60,Male,Master's,Senior Software Engineer,25,Pune,4158000,Synthetic Demonstration Data
+51,Female,Bachelor's,Data Analyst,19,Pune,2919000,Synthetic Demonstration Data
+44,Other,Master's,Financial Analyst,12,Delhi-NCR,2836000,Synthetic Demonstration Data
+31,Female,PhD,HR Specialist,4,Hyderabad,2431000,Synthetic Demonstration Data
+60,Male,Master's,Engineering Manager,23,Bangalore,4388000,Synthetic Demonstration Data
+25,Other,Master's,Software Engineer,0,Hyderabad,1611000,Synthetic Demonstration Data
+49,Female,Bachelor's,Machine Learning Engineer,19,Pune,3316000,Synthetic Demonstration Data
+39,Male,Bachelor's,Data Analyst,14,Mumbai,2736000,Synthetic Demonstration Data
+40,Male,Master's,Data Scientist,10,Pune,2643000,Synthetic Demonstration Data
+41,Female,Bachelor's,Software Engineer,15,Hyderabad,2468000,Synthetic Demonstration Data
+60,Male,Bachelor's,DevOps Engineer,27,Hyderabad,3884000,Synthetic Demonstration Data
+42,Male,Master's,Data Scientist,15,Hyderabad,3238000,Synthetic Demonstration Data
+50,Male,Master's,Senior Software Engineer,18,Chennai,3119000,Synthetic Demonstration Data
+44,Female,Bachelor's,Senior Software Engineer,15,Mumbai,2962000,Synthetic Demonstration Data
+50,Male,Master's,Engineering Manager,21,Mumbai,4465000,Synthetic Demonstration Data
+46,Male,PhD,DevOps Engineer,15,Delhi-NCR,3755000,Synthetic Demonstration Data
+50,Male,Bachelor's,Senior Software Engineer,22,Bangalore,3483000,Synthetic Demonstration Data
+43,Male,Bachelor's,Software Engineer,15,Chennai,2507000,Synthetic Demonstration Data
+44,Other,Master's,Software Engineer,13,Delhi-NCR,2725000,Synthetic Demonstration Data
+33,Female,Master's,DevOps Engineer,9,Bangalore,2512000,Synthetic Demonstration Data
+38,Female,Master's,Product Manager,10,Delhi-NCR,3098000,Synthetic Demonstration Data
+44,Female,Bachelor's,Data Scientist,19,Bangalore,3768000,Synthetic Demonstration Data
+49,Female,Master's,Senior Software Engineer,16,Delhi-NCR,3097000,Synthetic Demonstration Data
+43,Female,Bachelor's,HR Specialist,13,Mumbai,1977000,Synthetic Demonstration Data
+22,Female,Bachelor's,Software Engineer,0,Bangalore,538000,Synthetic Demonstration Data
+38,Male,Master's,Machine Learning Engineer,13,Delhi-NCR,3101000,Synthetic Demonstration Data
+56,Female,High School,Financial Analyst,29,Pune,4064000,Synthetic Demonstration Data
+62,Female,Bachelor's,Senior Software Engineer,32,Chennai,4414000,Synthetic Demonstration Data
+40,Female,Bachelor's,Engineering Manager,13,Delhi-NCR,3144000,Synthetic Demonstration Data
+34,Male,PhD,Software Engineer,5,Mumbai,2348000,Synthetic Demonstration Data
+30,Male,Bachelor's,Senior Software Engineer,6,Pune,1776000,Synthetic Demonstration Data
+41,Female,Master's,Software Engineer,13,Mumbai,2516000,Synthetic Demonstration Data
+31,Female,Bachelor's,Engineering Manager,9,Mumbai,3144000,Synthetic Demonstration Data
+31,Male,Bachelor's,DevOps Engineer,9,Bangalore,2221000,Synthetic Demonstration Data
+39,Female,Master's,Software Engineer,12,Chennai,2920000,Synthetic Demonstration Data
+52,Male,Bachelor's,Software Engineer,25,Mumbai,3646000,Synthetic Demonstration Data
+28,Female,High School,Data Scientist,10,Pune,1943000,Synthetic Demonstration Data
+36,Male,Bachelor's,Financial Analyst,9,Pune,1946000,Synthetic Demonstration Data
+56,Female,Master's,Software Engineer,27,Mumbai,4861000,Synthetic Demonstration Data
+42,Male,Bachelor's,DevOps Engineer,15,Bangalore,2284000,Synthetic Demonstration Data
+32,Male,Bachelor's,Software Engineer,10,Mumbai,1856000,Synthetic Demonstration Data
+24,Other,Bachelor's,Data Scientist,2,Bangalore,1724000,Synthetic Demonstration Data
+48,Male,Bachelor's,Software Engineer,18,Bangalore,3408000,Synthetic Demonstration Data
+52,Male,Bachelor's,Engineering Manager,22,Bangalore,4247000,Synthetic Demonstration Data
+38,Female,Bachelor's,Software Engineer,8,Delhi-NCR,1714000,Synthetic Demonstration Data
+43,Male,Bachelor's,Software Engineer,17,Delhi-NCR,2734000,Synthetic Demonstration Data
+42,Female,Bachelor's,Financial Analyst,11,Hyderabad,1944000,Synthetic Demonstration Data
+53,Male,PhD,Product Manager,18,Mumbai,4206000,Synthetic Demonstration Data
+47,Female,Master's,Data Analyst,14,Mumbai,2841000,Synthetic Demonstration Data
+40,Male,Bachelor's,Software Engineer,14,Delhi-NCR,2307000,Synthetic Demonstration Data
+34,Female,Bachelor's,Data Scientist,7,Delhi-NCR,2142000,Synthetic Demonstration Data
+44,Other,Master's,Machine Learning Engineer,12,Bangalore,3075000,Synthetic Demonstration Data
+36,Male,Master's,Machine Learning Engineer,10,Mumbai,2626000,Synthetic Demonstration Data
+38,Male,Bachelor's,Product Manager,6,Delhi-NCR,1885000,Synthetic Demonstration Data
+31,Male,Bachelor's,DevOps Engineer,3,Pune,1691000,Synthetic Demonstration Data
+56,Female,Bachelor's,Senior Software Engineer,27,Bangalore,4393000,Synthetic Demonstration Data
+47,Male,PhD,Software Engineer,17,Chennai,3166000,Synthetic Demonstration Data
+44,Female,Bachelor's,Senior Software Engineer,16,Remote / Tier 2 Cities,2710000,Synthetic Demonstration Data
+32,Male,Master's,Software Engineer,7,Bangalore,2216000,Synthetic Demonstration Data
+25,Female,Bachelor's,Software Engineer,0,Delhi-NCR,1109000,Synthetic Demonstration Data
+55,Male,Bachelor's,Software Engineer,25,Pune,3774000,Synthetic Demonstration Data
+23,Male,Bachelor's,Financial Analyst,0,Bangalore,928000,Synthetic Demonstration Data
+39,Male,Bachelor's,Senior Software Engineer,11,Mumbai,2409000,Synthetic Demonstration Data
+48,Male,High School,DevOps Engineer,22,Pune,3263000,Synthetic Demonstration Data
+45,Male,Bachelor's,DevOps Engineer,16,Bangalore,3170000,Synthetic Demonstration Data
+54,Male,Master's,Product Manager,20,Hyderabad,3618000,Synthetic Demonstration Data
+32,Male,Bachelor's,Product Manager,7,Bangalore,1955000,Synthetic Demonstration Data
+33,Female,Bachelor's,Software Engineer,6,Hyderabad,1639000,Synthetic Demonstration Data
+38,Male,Bachelor's,Financial Analyst,9,Hyderabad,2206000,Synthetic Demonstration Data
+27,Male,Bachelor's,Data Scientist,4,Mumbai,1858000,Synthetic Demonstration Data
+46,Other,Bachelor's,Engineering Manager,17,Mumbai,4198000,Synthetic Demonstration Data
+45,Female,Bachelor's,DevOps Engineer,18,Hyderabad,2896000,Synthetic Demonstration Data
+50,Male,Bachelor's,Senior Software Engineer,19,Bangalore,3344000,Synthetic Demonstration Data
+52,Female,Master's,DevOps Engineer,20,Bangalore,3823000,Synthetic Demonstration Data
+29,Female,Bachelor's,DevOps Engineer,4,Pune,1885000,Synthetic Demonstration Data
+34,Male,Master's,Financial Analyst,9,Bangalore,2552000,Synthetic Demonstration Data
+31,Female,Master's,Data Analyst,7,Bangalore,2164000,Synthetic Demonstration Data
+23,Male,Bachelor's,DevOps Engineer,1,Mumbai,1477000,Synthetic Demonstration Data
+31,Male,Bachelor's,Software Engineer,6,Bangalore,1545000,Synthetic Demonstration Data
+47,Male,Bachelor's,Data Scientist,20,Delhi-NCR,3512000,Synthetic Demonstration Data
+35,Female,High School,Data Scientist,13,Pune,2807000,Synthetic Demonstration Data
+56,Male,PhD,Software Engineer,18,Bangalore,3506000,Synthetic Demonstration Data
+30,Male,Bachelor's,Data Scientist,2,Mumbai,1300000,Synthetic Demonstration Data
+30,Other,High School,Senior Software Engineer,12,Hyderabad,2401000,Synthetic Demonstration Data
+28,Female,Bachelor's,Senior Software Engineer,5,Bangalore,1992000,Synthetic Demonstration Data
+27,Male,Bachelor's,Machine Learning Engineer,5,Bangalore,2076000,Synthetic Demonstration Data
+61,Female,High School,Data Scientist,29,Bangalore,4031000,Synthetic Demonstration Data
+40,Female,PhD,Product Manager,7,Chennai,2512000,Synthetic Demonstration Data
+53,Male,Master's,Senior Software Engineer,19,Delhi-NCR,4129000,Synthetic Demonstration Data
+42,Female,Bachelor's,HR Specialist,15,Delhi-NCR,2549000,Synthetic Demonstration Data
+57,Female,PhD,Data Analyst,18,Delhi-NCR,3392000,Synthetic Demonstration Data
+28,Male,High School,Financial Analyst,10,Remote / Tier 2 Cities,1346000,Synthetic Demonstration Data
+48,Female,Bachelor's,DevOps Engineer,15,Delhi-NCR,2829000,Synthetic Demonstration Data
+47,Female,Bachelor's,Engineering Manager,19,Bangalore,3939000,Synthetic Demonstration Data
+53,Male,Master's,Software Engineer,25,Delhi-NCR,4174000,Synthetic Demonstration Data
+33,Male,Bachelor's,Product Manager,9,Pune,2563000,Synthetic Demonstration Data
+26,Female,Bachelor's,Product Manager,4,Pune,1932000,Synthetic Demonstration Data
+35,Male,Bachelor's,Senior Software Engineer,13,Mumbai,2377000,Synthetic Demonstration Data
+57,Female,Bachelor's,DevOps Engineer,26,Bangalore,4065000,Synthetic Demonstration Data
+48,Male,Bachelor's,Financial Analyst,22,Bangalore,3256000,Synthetic Demonstration Data
+58,Female,Master's,Engineering Manager,24,Remote / Tier 2 Cities,4571000,Synthetic Demonstration Data
+62,Male,PhD,DevOps Engineer,28,Mumbai,4544000,Synthetic Demonstration Data
+28,Male,Bachelor's,Machine Learning Engineer,6,Chennai,1907000,Synthetic Demonstration Data
+42,Male,Bachelor's,Machine Learning Engineer,13,Bangalore,2941000,Synthetic Demonstration Data
+26,Male,Master's,Data Scientist,2,Mumbai,1755000,Synthetic Demonstration Data
+29,Male,Master's,Data Scientist,2,Hyderabad,1855000,Synthetic Demonstration Data
+27,Male,Bachelor's,Software Engineer,1,Bangalore,1046000,Synthetic Demonstration Data
+53,Male,Bachelor's,Senior Software Engineer,26,Bangalore,3870000,Synthetic Demonstration Data
+55,Male,Master's,Data Scientist,26,Hyderabad,3959000,Synthetic Demonstration Data
+43,Male,Master's,Senior Software Engineer,12,Mumbai,3265000,Synthetic Demonstration Data
+32,Male,Bachelor's,DevOps Engineer,3,Bangalore,1640000,Synthetic Demonstration Data
+50,Male,Master's,Machine Learning Engineer,19,Mumbai,3486000,Synthetic Demonstration Data
+47,Other,Master's,Data Analyst,16,Bangalore,2835000,Synthetic Demonstration Data
+38,Female,Bachelor's,Financial Analyst,11,Bangalore,2120000,Synthetic Demonstration Data
+24,Male,Master's,Software Engineer,0,Bangalore,928000,Synthetic Demonstration Data
+58,Female,Bachelor's,Data Scientist,26,Chennai,4053000,Synthetic Demonstration Data
+61,Male,Bachelor's,Data Analyst,29,Pune,3712000,Synthetic Demonstration Data
+34,Male,Master's,Engineering Manager,8,Bangalore,3097000,Synthetic Demonstration Data
+61,Male,Master's,DevOps Engineer,27,Mumbai,4139000,Synthetic Demonstration Data
+42,Male,PhD,Financial Analyst,10,Remote / Tier 2 Cities,2299000,Synthetic Demonstration Data
+25,Female,High School,Data Scientist,7,Bangalore,1736000,Synthetic Demonstration Data
+62,Female,Bachelor's,Software Engineer,27,Pune,4121000,Synthetic Demonstration Data
+26,Male,High School,Data Scientist,3,Remote / Tier 2 Cities,1409000,Synthetic Demonstration Data
+39,Female,Bachelor's,Data Analyst,12,Bangalore,2206000,Synthetic Demonstration Data
+31,Other,PhD,Software Engineer,3,Delhi-NCR,1689000,Synthetic Demonstration Data
+58,Male,Bachelor's,Product Manager,22,Bangalore,3937000,Synthetic Demonstration Data
+61,Male,Bachelor's,DevOps Engineer,28,Remote / Tier 2 Cities,3666000,Synthetic Demonstration Data
+59,Male,Master's,Machine Learning Engineer,23,Bangalore,4549000,Synthetic Demonstration Data
+59,Male,Bachelor's,Machine Learning Engineer,33,Hyderabad,4551000,Synthetic Demonstration Data
+57,Male,Bachelor's,HR Specialist,28,Bangalore,4087000,Synthetic Demonstration Data
+57,Female,Bachelor's,Software Engineer,28,Delhi-NCR,4326000,Synthetic Demonstration Data
+54,Male,Master's,Senior Software Engineer,20,Hyderabad,3624000,Synthetic Demonstration Data
+60,Female,Master's,Engineering Manager,19,Mumbai,4382000,Synthetic Demonstration Data
+48,Male,PhD,Senior Software Engineer,14,Delhi-NCR,3497000,Synthetic Demonstration Data
+62,Female,Bachelor's,Engineering Manager,28,Hyderabad,4563000,Synthetic Demonstration Data
+54,Male,Bachelor's,Software Engineer,22,Delhi-NCR,3457000,Synthetic Demonstration Data
+39,Male,PhD,Financial Analyst,7,Pune,2578000,Synthetic Demonstration Data
+42,Female,Bachelor's,Senior Software Engineer,15,Remote / Tier 2 Cities,2872000,Synthetic Demonstration Data
+34,Male,Bachelor's,Senior Software Engineer,11,Mumbai,2479000,Synthetic Demonstration Data
+60,Male,Master's,Financial Analyst,26,Delhi-NCR,4305000,Synthetic Demonstration Data
+43,Female,Bachelor's,Financial Analyst,14,Delhi-NCR,2507000,Synthetic Demonstration Data
+35,Male,Bachelor's,HR Specialist,9,Bangalore,1845000,Synthetic Demonstration Data
+54,Male,PhD,Software Engineer,22,Delhi-NCR,4012000,Synthetic Demonstration Data
+27,Female,Master's,Data Analyst,1,Bangalore,1573000,Synthetic Demonstration Data
+49,Female,Bachelor's,Senior Software Engineer,18,Hyderabad,3451000,Synthetic Demonstration Data
+62,Female,Master's,HR Specialist,26,Mumbai,3604000,Synthetic Demonstration Data
+28,Female,Master's,Software Engineer,4,Pune,1776000,Synthetic Demonstration Data
+52,Male,Master's,Data Analyst,15,Mumbai,2598000,Synthetic Demonstration Data
+46,Female,Master's,Data Scientist,18,Delhi-NCR,3676000,Synthetic Demonstration Data
+53,Female,Bachelor's,Software Engineer,22,Bangalore,3534000,Synthetic Demonstration Data
+49,Male,Bachelor's,Software Engineer,18,Bangalore,2910000,Synthetic Demonstration Data
+49,Male,Bachelor's,Senior Software Engineer,22,Mumbai,4169000,Synthetic Demonstration Data
+24,Male,Bachelor's,Machine Learning Engineer,2,Delhi-NCR,1469000,Synthetic Demonstration Data
+53,Male,Bachelor's,Product Manager,24,Bangalore,4101000,Synthetic Demonstration Data
+60,Male,Bachelor's,Software Engineer,27,Pune,3796000,Synthetic Demonstration Data
+55,Male,Master's,Software Engineer,24,Delhi-NCR,3902000,Synthetic Demonstration Data
+45,Male,Master's,Data Analyst,15,Hyderabad,3002000,Synthetic Demonstration Data
+23,Female,Bachelor's,Financial Analyst,0,Delhi-NCR,451000,Synthetic Demonstration Data
+21,Female,High School,Data Scientist,3,Hyderabad,895000,Synthetic Demonstration Data
+28,Female,PhD,Software Engineer,1,Hyderabad,1722000,Synthetic Demonstration Data
+24,Female,Bachelor's,HR Specialist,0,Bangalore,613000,Synthetic Demonstration Data
+50,Male,High School,Data Scientist,25,Delhi-NCR,3487000,Synthetic Demonstration Data
+36,Male,Bachelor's,Software Engineer,10,Pune,1913000,Synthetic Demonstration Data
+56,Female,Bachelor's,Product Manager,22,Delhi-NCR,3926000,Synthetic Demonstration Data
+33,Female,Master's,DevOps Engineer,3,Hyderabad,1344000,Synthetic Demonstration Data
+51,Female,Bachelor's,Senior Software Engineer,22,Delhi-NCR,3890000,Synthetic Demonstration Data
+39,Male,Master's,Software Engineer,9,Delhi-NCR,2066000,Synthetic Demonstration Data
+36,Male,Bachelor's,Senior Software Engineer,8,Mumbai,2641000,Synthetic Demonstration Data
+62,Female,Master's,DevOps Engineer,33,Pune,4820000,Synthetic Demonstration Data
+48,Male,Master's,Senior Software Engineer,15,Delhi-NCR,3388000,Synthetic Demonstration Data
+29,Male,Bachelor's,Senior Software Engineer,6,Hyderabad,1939000,Synthetic Demonstration Data
+31,Female,Master's,Data Analyst,6,Hyderabad,1392000,Synthetic Demonstration Data
+58,Male,High School,DevOps Engineer,28,Mumbai,4340000,Synthetic Demonstration Data
+61,Male,Master's,Software Engineer,30,Hyderabad,4151000,Synthetic Demonstration Data
+38,Female,Master's,Financial Analyst,7,Remote / Tier 2 Cities,1508000,Synthetic Demonstration Data
+62,Female,PhD,Engineering Manager,23,Pune,4978000,Synthetic Demonstration Data
+49,Male,High School,Data Analyst,23,Hyderabad,2838000,Synthetic Demonstration Data
+36,Female,High School,HR Specialist,13,Mumbai,2096000,Synthetic Demonstration Data
+45,Female,Master's,Machine Learning Engineer,18,Hyderabad,3566000,Synthetic Demonstration Data
+28,Male,Bachelor's,Data Scientist,6,Delhi-NCR,2116000,Synthetic Demonstration Data
+42,Female,Master's,DevOps Engineer,15,Bangalore,2931000,Synthetic Demonstration Data
+46,Female,Bachelor's,HR Specialist,14,Hyderabad,2528000,Synthetic Demonstration Data
+34,Female,Bachelor's,DevOps Engineer,9,Delhi-NCR,2008000,Synthetic Demonstration Data
+54,Male,Bachelor's,HR Specialist,27,Bangalore,3895000,Synthetic Demonstration Data
+49,Male,Master's,Financial Analyst,15,Remote / Tier 2 Cities,2535000,Synthetic Demonstration Data
+33,Male,Bachelor's,Senior Software Engineer,8,Chennai,1911000,Synthetic Demonstration Data
+43,Male,Master's,Software Engineer,11,Bangalore,2713000,Synthetic Demonstration Data
+55,Male,Master's,Engineering Manager,21,Bangalore,4253000,Synthetic Demonstration Data
+54,Male,Master's,DevOps Engineer,21,Delhi-NCR,3417000,Synthetic Demonstration Data
+52,Male,Bachelor's,Data Scientist,21,Hyderabad,3307000,Synthetic Demonstration Data
+59,Male,High School,Senior Software Engineer,33,Bangalore,4023000,Synthetic Demonstration Data
+49,Female,PhD,Software Engineer,14,Bangalore,3446000,Synthetic Demonstration Data
+61,Female,Bachelor's,Senior Software Engineer,28,Bangalore,4380000,Synthetic Demonstration Data
+45,Female,Bachelor's,Financial Analyst,12,Bangalore,2342000,Synthetic Demonstration Data
+61,Male,Bachelor's,Financial Analyst,26,Bangalore,3524000,Synthetic Demonstration Data
+48,Female,High School,Software Engineer,24,Chennai,3136000,Synthetic Demonstration Data
+37,Male,High School,Data Scientist,17,Delhi-NCR,3084000,Synthetic Demonstration Data
+44,Male,Master's,Senior Software Engineer,15,Delhi-NCR,3104000,Synthetic Demonstration Data
+29,Male,Bachelor's,DevOps Engineer,5,Delhi-NCR,1665000,Synthetic Demonstration Data
+61,Male,Bachelor's,Data Analyst,29,Mumbai,3689000,Synthetic Demonstration Data
+62,Female,Bachelor's,Machine Learning Engineer,30,Hyderabad,4575000,Synthetic Demonstration Data
+24,Female,Bachelor's,Software Engineer,0,Pune,907000,Synthetic Demonstration Data
+35,Other,Master's,Senior Software Engineer,11,Chennai,2493000,Synthetic Demonstration Data
+52,Female,Bachelor's,HR Specialist,17,Chennai,2795000,Synthetic Demonstration Data
+46,Male,PhD,Software Engineer,12,Bangalore,2773000,Synthetic Demonstration Data
+38,Male,High School,Engineering Manager,13,Pune,2812000,Synthetic Demonstration Data
+52,Female,Bachelor's,Senior Software Engineer,20,Mumbai,3332000,Synthetic Demonstration Data
+41,Male,Master's,Machine Learning Engineer,16,Delhi-NCR,3518000,Synthetic Demonstration Data
+51,Female,Bachelor's,Data Analyst,26,Chennai,3426000,Synthetic Demonstration Data
+38,Female,Master's,Software Engineer,10,Hyderabad,2535000,Synthetic Demonstration Data
+30,Male,Bachelor's,Software Engineer,5,Bangalore,1753000,Synthetic Demonstration Data
+52,Female,High School,Machine Learning Engineer,25,Bangalore,3977000,Synthetic Demonstration Data
+32,Male,Bachelor's,HR Specialist,10,Hyderabad,2047000,Synthetic Demonstration Data
+30,Male,Bachelor's,Product Manager,3,Pune,1602000,Synthetic Demonstration Data
+36,Female,Master's,Machine Learning Engineer,6,Bangalore,2156000,Synthetic Demonstration Data
+27,Male,Bachelor's,Software Engineer,0,Hyderabad,1365000,Synthetic Demonstration Data
+49,Male,Master's,HR Specialist,18,Chennai,3042000,Synthetic Demonstration Data
+41,Female,Bachelor's,DevOps Engineer,11,Delhi-NCR,2069000,Synthetic Demonstration Data
+59,Female,High School,Machine Learning Engineer,31,Mumbai,4551000,Synthetic Demonstration Data
+44,Female,PhD,Machine Learning Engineer,10,Bangalore,3416000,Synthetic Demonstration Data
+47,Female,Bachelor's,Machine Learning Engineer,23,Chennai,3631000,Synthetic Demonstration Data
+28,Male,Master's,Data Analyst,2,Delhi-NCR,1801000,Synthetic Demonstration Data
+47,Male,Master's,Senior Software Engineer,15,Hyderabad,3385000,Synthetic Demonstration Data
+24,Male,Bachelor's,Software Engineer,0,Delhi-NCR,684000,Synthetic Demonstration Data
+61,Male,Master's,Software Engineer,28,Hyderabad,4193000,Synthetic Demonstration Data
+26,Male,Bachelor's,Data Analyst,1,Hyderabad,1013000,Synthetic Demonstration Data
+56,Female,Bachelor's,Software Engineer,30,Delhi-NCR,4346000,Synthetic Demonstration Data
+36,Female,Master's,Data Scientist,8,Mumbai,2498000,Synthetic Demonstration Data
+52,Other,Bachelor's,Machine Learning Engineer,23,Bangalore,3866000,Synthetic Demonstration Data
+35,Male,Master's,Data Analyst,8,Delhi-NCR,2145000,Synthetic Demonstration Data
+56,Female,Master's,Product Manager,19,Bangalore,3694000,Synthetic Demonstration Data
+57,Female,High School,Software Engineer,29,Hyderabad,3897000,Synthetic Demonstration Data
+43,Male,Bachelor's,Data Analyst,10,Chennai,1879000,Synthetic Demonstration Data
+38,Female,Bachelor's,Financial Analyst,10,Mumbai,2368000,Synthetic Demonstration Data
+41,Female,Master's,Product Manager,11,Bangalore,3321000,Synthetic Demonstration Data
+47,Female,Bachelor's,Senior Software Engineer,18,Chennai,2962000,Synthetic Demonstration Data
+39,Female,Bachelor's,HR Specialist,14,Mumbai,2303000,Synthetic Demonstration Data
+62,Male,Master's,Senior Software Engineer,27,Bangalore,4325000,Synthetic Demonstration Data
+40,Male,Bachelor's,Data Scientist,17,Pune,2906000,Synthetic Demonstration Data
+28,Female,Bachelor's,Product Manager,3,Mumbai,1973000,Synthetic Demonstration Data
+25,Male,Master's,Software Engineer,0,Bangalore,1485000,Synthetic Demonstration Data
+29,Female,Bachelor's,Data Analyst,5,Remote / Tier 2 Cities,1093000,Synthetic Demonstration Data
+43,Female,Bachelor's,Senior Software Engineer,12,Mumbai,2192000,Synthetic Demonstration Data
+28,Male,Master's,DevOps Engineer,3,Bangalore,2179000,Synthetic Demonstration Data
+35,Female,Bachelor's,Senior Software Engineer,5,Delhi-NCR,2154000,Synthetic Demonstration Data
+25,Other,High School,Senior Software Engineer,4,Bangalore,1515000,Synthetic Demonstration Data
+22,Female,Bachelor's,Financial Analyst,0,Pune,836000,Synthetic Demonstration Data
+44,Male,Bachelor's,HR Specialist,10,Bangalore,1718000,Synthetic Demonstration Data
+30,Male,Bachelor's,Senior Software Engineer,7,Bangalore,1707000,Synthetic Demonstration Data
+46,Female,Bachelor's,Software Engineer,19,Bangalore,3308000,Synthetic Demonstration Data
+60,Female,Master's,Data Scientist,24,Pune,4103000,Synthetic Demonstration Data
+38,Other,Bachelor's,Software Engineer,13,Pune,2258000,Synthetic Demonstration Data
+46,Female,PhD,Data Scientist,15,Bangalore,3687000,Synthetic Demonstration Data
+38,Female,PhD,Financial Analyst,10,Mumbai,2176000,Synthetic Demonstration Data
+25,Male,High School,Software Engineer,4,Delhi-NCR,1551000,Synthetic Demonstration Data
+38,Male,Bachelor's,Software Engineer,10,Mumbai,1932000,Synthetic Demonstration Data
+50,Female,Bachelor's,Software Engineer,17,Bangalore,3154000,Synthetic Demonstration Data
+60,Male,Bachelor's,Data Scientist,28,Hyderabad,4618000,Synthetic Demonstration Data
+53,Female,Master's,Product Manager,21,Bangalore,4268000,Synthetic Demonstration Data
+43,Female,Master's,Data Scientist,18,Mumbai,3246000,Synthetic Demonstration Data
+58,Male,Bachelor's,DevOps Engineer,29,Bangalore,4290000,Synthetic Demonstration Data
+28,Female,Master's,Software Engineer,4,Delhi-NCR,1593000,Synthetic Demonstration Data
+31,Female,Bachelor's,DevOps Engineer,8,Mumbai,2479000,Synthetic Demonstration Data
+37,Male,Master's,Senior Software Engineer,5,Delhi-NCR,2024000,Synthetic Demonstration Data
+45,Male,Bachelor's,Financial Analyst,17,Bangalore,3145000,Synthetic Demonstration Data
+56,Female,Master's,Software Engineer,20,Pune,3347000,Synthetic Demonstration Data
+27,Male,Master's,Financial Analyst,1,Pune,1521000,Synthetic Demonstration Data
+54,Male,Master's,DevOps Engineer,19,Delhi-NCR,3357000,Synthetic Demonstration Data
+60,Female,High School,Machine Learning Engineer,28,Remote / Tier 2 Cities,4180000,Synthetic Demonstration Data
+54,Male,Master's,Senior Software Engineer,20,Bangalore,4068000,Synthetic Demonstration Data
+30,Male,Bachelor's,HR Specialist,8,Mumbai,1845000,Synthetic Demonstration Data
+61,Male,Master's,Machine Learning Engineer,26,Pune,4143000,Synthetic Demonstration Data
+51,Male,Master's,HR Specialist,22,Bangalore,2924000,Synthetic Demonstration Data
+45,Male,Master's,Software Engineer,16,Pune,2724000,Synthetic Demonstration Data
+49,Male,Bachelor's,Product Manager,22,Hyderabad,3667000,Synthetic Demonstration Data
+38,Male,Bachelor's,DevOps Engineer,13,Bangalore,2303000,Synthetic Demonstration Data
+40,Male,Master's,DevOps Engineer,11,Bangalore,1867000,Synthetic Demonstration Data
+43,Female,Bachelor's,Engineering Manager,13,Hyderabad,3565000,Synthetic Demonstration Data
+41,Male,Bachelor's,Software Engineer,15,Delhi-NCR,3316000,Synthetic Demonstration Data
+51,Male,Bachelor's,Product Manager,20,Mumbai,3657000,Synthetic Demonstration Data
+45,Other,Bachelor's,Software Engineer,15,Bangalore,2680000,Synthetic Demonstration Data
+26,Female,High School,Engineering Manager,8,Delhi-NCR,2339000,Synthetic Demonstration Data
+62,Male,Master's,Senior Software Engineer,26,Bangalore,4467000,Synthetic Demonstration Data
+44,Female,Bachelor's,Senior Software Engineer,18,Pune,3485000,Synthetic Demonstration Data
+43,Female,Bachelor's,Software Engineer,13,Mumbai,2331000,Synthetic Demonstration Data
+37,Female,Bachelor's,Product Manager,9,Mumbai,2604000,Synthetic Demonstration Data
+31,Male,High School,Software Engineer,9,Delhi-NCR,1833000,Synthetic Demonstration Data
+57,Female,PhD,Product Manager,26,Mumbai,4976000,Synthetic Demonstration Data
+48,Female,Bachelor's,DevOps Engineer,17,Delhi-NCR,3263000,Synthetic Demonstration Data
+42,Male,PhD,Product Manager,13,Hyderabad,3674000,Synthetic Demonstration Data
+33,Male,Bachelor's,DevOps Engineer,10,Mumbai,1734000,Synthetic Demonstration Data
+52,Female,Master's,Senior Software Engineer,20,Delhi-NCR,3593000,Synthetic Demonstration Data
+37,Other,Bachelor's,Software Engineer,10,Hyderabad,2344000,Synthetic Demonstration Data
+49,Male,PhD,Software Engineer,20,Delhi-NCR,3566000,Synthetic Demonstration Data
+52,Female,Bachelor's,Senior Software Engineer,20,Bangalore,3441000,Synthetic Demonstration Data
+47,Female,Bachelor's,Software Engineer,16,Hyderabad,2659000,Synthetic Demonstration Data
+52,Male,Bachelor's,Senior Software Engineer,19,Mumbai,3485000,Synthetic Demonstration Data
+60,Male,Bachelor's,Engineering Manager,26,Delhi-NCR,4683000,Synthetic Demonstration Data
+56,Male,PhD,Data Analyst,24,Delhi-NCR,3843000,Synthetic Demonstration Data
+26,Female,Master's,Data Scientist,2,Mumbai,1455000,Synthetic Demonstration Data
+58,Female,Bachelor's,Financial Analyst,27,Delhi-NCR,3705000,Synthetic Demonstration Data
+52,Female,Bachelor's,Data Scientist,20,Chennai,3247000,Synthetic Demonstration Data
+25,Female,Bachelor's,DevOps Engineer,1,Mumbai,1023000,Synthetic Demonstration Data
+42,Female,Master's,Engineering Manager,14,Pune,3808000,Synthetic Demonstration Data
+27,Male,Bachelor's,Financial Analyst,0,Delhi-NCR,728000,Synthetic Demonstration Data
+53,Female,High School,Senior Software Engineer,27,Chennai,3566000,Synthetic Demonstration Data
+57,Male,Bachelor's,Senior Software Engineer,26,Bangalore,4416000,Synthetic Demonstration Data
+32,Female,Bachelor's,DevOps Engineer,6,Bangalore,1583000,Synthetic Demonstration Data
+27,Male,High School,Data Scientist,4,Delhi-NCR,1495000,Synthetic Demonstration Data
+37,Male,Bachelor's,Software Engineer,13,Bangalore,2518000,Synthetic Demonstration Data
+59,Female,Bachelor's,HR Specialist,21,Bangalore,3502000,Synthetic Demonstration Data
+34,Female,Bachelor's,DevOps Engineer,10,Delhi-NCR,2496000,Synthetic Demonstration Data
+46,Male,Bachelor's,Software Engineer,17,Hyderabad,2563000,Synthetic Demonstration Data
+48,Male,Bachelor's,Software Engineer,18,Bangalore,3372000,Synthetic Demonstration Data
+29,Other,Master's,Product Manager,3,Bangalore,2330000,Synthetic Demonstration Data
+46,Female,PhD,Software Engineer,15,Delhi-NCR,3094000,Synthetic Demonstration Data
+39,Male,Master's,Product Manager,9,Delhi-NCR,2489000,Synthetic Demonstration Data
+47,Male,Master's,HR Specialist,13,Bangalore,2161000,Synthetic Demonstration Data
+53,Female,PhD,Senior Software Engineer,21,Pune,3797000,Synthetic Demonstration Data
+61,Female,Bachelor's,Product Manager,27,Bangalore,4554000,Synthetic Demonstration Data
+46,Male,Bachelor's,Product Manager,18,Mumbai,3285000,Synthetic Demonstration Data
+42,Male,Bachelor's,Software Engineer,12,Bangalore,2380000,Synthetic Demonstration Data
+46,Male,Bachelor's,Data Scientist,19,Mumbai,3376000,Synthetic Demonstration Data
+52,Female,Bachelor's,Senior Software Engineer,19,Hyderabad,3407000,Synthetic Demonstration Data
+43,Male,Master's,Software Engineer,11,Mumbai,2838000,Synthetic Demonstration Data
+38,Male,Master's,Data Scientist,5,Bangalore,2091000,Synthetic Demonstration Data
+29,Female,Master's,Software Engineer,3,Hyderabad,1683000,Synthetic Demonstration Data
+60,Female,Bachelor's,Senior Software Engineer,26,Bangalore,4475000,Synthetic Demonstration Data
+59,Female,Bachelor's,Senior Software Engineer,28,Hyderabad,4427000,Synthetic Demonstration Data
+26,Male,Master's,Machine Learning Engineer,2,Hyderabad,1777000,Synthetic Demonstration Data
+27,Female,Bachelor's,Financial Analyst,2,Mumbai,1328000,Synthetic Demonstration Data
+41,Male,Master's,Software Engineer,10,Hyderabad,1971000,Synthetic Demonstration Data
+32,Male,Master's,Software Engineer,3,Hyderabad,1412000,Synthetic Demonstration Data
+39,Male,Bachelor's,Product Manager,15,Hyderabad,3337000,Synthetic Demonstration Data
+34,Female,PhD,HR Specialist,1,Hyderabad,1818000,Synthetic Demonstration Data
+59,Male,High School,Software Engineer,30,Bangalore,4344000,Synthetic Demonstration Data
+29,Male,Master's,Senior Software Engineer,5,Hyderabad,2126000,Synthetic Demonstration Data
+49,Female,Master's,Financial Analyst,20,Bangalore,3546000,Synthetic Demonstration Data
+25,Female,Master's,HR Specialist,0,Mumbai,1295000,Synthetic Demonstration Data
+34,Female,Master's,Data Analyst,10,Mumbai,2433000,Synthetic Demonstration Data
+39,Female,Bachelor's,Data Scientist,13,Mumbai,2843000,Synthetic Demonstration Data
+44,Female,Master's,Data Scientist,14,Pune,3082000,Synthetic Demonstration Data
+29,Female,Bachelor's,Software Engineer,5,Delhi-NCR,1454000,Synthetic Demonstration Data
+34,Male,Bachelor's,Product Manager,7,Chennai,2338000,Synthetic Demonstration Data
+40,Female,Master's,HR Specialist,9,Hyderabad,2208000,Synthetic Demonstration Data
+39,Female,Bachelor's,Senior Software Engineer,10,Bangalore,2478000,Synthetic Demonstration Data
+59,Male,Master's,Senior Software Engineer,27,Remote / Tier 2 Cities,4293000,Synthetic Demonstration Data
+62,Male,PhD,DevOps Engineer,26,Bangalore,4511000,Synthetic Demonstration Data
+61,Male,High School,Data Analyst,33,Delhi-NCR,4075000,Synthetic Demonstration Data
+41,Male,Master's,DevOps Engineer,15,Mumbai,2952000,Synthetic Demonstration Data
+54,Male,Master's,Data Analyst,21,Bangalore,3252000,Synthetic Demonstration Data
+37,Female,Bachelor's,DevOps Engineer,11,Mumbai,2409000,Synthetic Demonstration Data
+61,Male,Master's,Senior Software Engineer,26,Bangalore,4701000,Synthetic Demonstration Data
+36,Other,Bachelor's,Software Engineer,7,Delhi-NCR,1575000,Synthetic Demonstration Data
+48,Male,Bachelor's,Machine Learning Engineer,19,Chennai,3334000,Synthetic Demonstration Data
+46,Female,Master's,DevOps Engineer,17,Mumbai,3096000,Synthetic Demonstration Data
+27,Female,Master's,Data Scientist,2,Delhi-NCR,1962000,Synthetic Demonstration Data
+43,Female,Master's,Senior Software Engineer,17,Pune,2797000,Synthetic Demonstration Data
+51,Male,Bachelor's,Engineering Manager,22,Bangalore,4405000,Synthetic Demonstration Data
+22,Male,Bachelor's,Software Engineer,0,Bangalore,922000,Synthetic Demonstration Data
+58,Male,Bachelor's,Senior Software Engineer,25,Bangalore,4115000,Synthetic Demonstration Data
+59,Female,High School,HR Specialist,32,Bangalore,3700000,Synthetic Demonstration Data
+40,Male,Bachelor's,Machine Learning Engineer,14,Hyderabad,2881000,Synthetic Demonstration Data
+22,Female,Bachelor's,HR Specialist,0,Hyderabad,1060000,Synthetic Demonstration Data
+39,Male,Master's,Senior Software Engineer,7,Delhi-NCR,2450000,Synthetic Demonstration Data
+50,Female,Bachelor's,Software Engineer,15,Bangalore,2743000,Synthetic Demonstration Data
+38,Female,Bachelor's,HR Specialist,14,Bangalore,2078000,Synthetic Demonstration Data
+56,Female,Master's,Engineering Manager,25,Hyderabad,4560000,Synthetic Demonstration Data
+37,Female,Bachelor's,Software Engineer,11,Remote / Tier 2 Cities,1934000,Synthetic Demonstration Data
+37,Male,High School,Product Manager,12,Pune,2378000,Synthetic Demonstration Data
+30,Male,Bachelor's,Data Scientist,8,Mumbai,2385000,Synthetic Demonstration Data
+43,Male,Bachelor's,Machine Learning Engineer,13,Pune,2869000,Synthetic Demonstration Data
+44,Female,Bachelor's,Financial Analyst,16,Bangalore,2837000,Synthetic Demonstration Data
+19,Male,High School,Software Engineer,0,Mumbai,1033000,Synthetic Demonstration Data
+43,Female,PhD,Data Scientist,15,Pune,3694000,Synthetic Demonstration Data
+55,Male,Bachelor's,Product Manager,21,Hyderabad,3476000,Synthetic Demonstration Data
+61,Male,Master's,Data Scientist,23,Bangalore,4152000,Synthetic Demonstration Data
+33,Male,Bachelor's,HR Specialist,11,Hyderabad,2139000,Synthetic Demonstration Data
+23,Male,Bachelor's,Financial Analyst,1,Bangalore,627000,Synthetic Demonstration Data
+51,Female,Bachelor's,Senior Software Engineer,20,Mumbai,3464000,Synthetic Demonstration Data
+58,Female,Bachelor's,Senior Software Engineer,26,Mumbai,4056000,Synthetic Demonstration Data
+55,Female,Bachelor's,Senior Software Engineer,26,Chennai,3750000,Synthetic Demonstration Data
+47,Male,Bachelor's,Engineering Manager,16,Delhi-NCR,3875000,Synthetic Demonstration Data
+29,Female,Bachelor's,Senior Software Engineer,7,Chennai,2046000,Synthetic Demonstration Data
+40,Female,High School,Senior Software Engineer,16,Delhi-NCR,2666000,Synthetic Demonstration Data
+30,Male,Master's,Senior Software Engineer,6,Hyderabad,2117000,Synthetic Demonstration Data
+47,Female,Bachelor's,Data Analyst,21,Pune,2889000,Synthetic Demonstration Data
+28,Male,PhD,DevOps Engineer,1,Hyderabad,1675000,Synthetic Demonstration Data
+41,Female,Master's,Machine Learning Engineer,17,Hyderabad,3333000,Synthetic Demonstration Data
+41,Male,Bachelor's,Software Engineer,12,Delhi-NCR,1755000,Synthetic Demonstration Data
+60,Female,Master's,Product Manager,27,Hyderabad,5059000,Synthetic Demonstration Data
+34,Female,Bachelor's,Software Engineer,11,Bangalore,2379000,Synthetic Demonstration Data
+33,Male,Bachelor's,Software Engineer,10,Hyderabad,2164000,Synthetic Demonstration Data
+38,Male,Bachelor's,Senior Software Engineer,14,Chennai,2572000,Synthetic Demonstration Data
+29,Male,Bachelor's,Data Scientist,6,Delhi-NCR,1900000,Synthetic Demonstration Data
+26,Female,Bachelor's,Data Scientist,4,Hyderabad,1514000,Synthetic Demonstration Data
+43,Female,Bachelor's,DevOps Engineer,17,Bangalore,3104000,Synthetic Demonstration Data
+37,Female,Master's,HR Specialist,7,Hyderabad,1973000,Synthetic Demonstration Data
+27,Female,Bachelor's,Product Manager,4,Pune,1470000,Synthetic Demonstration Data
+44,Female,Bachelor's,DevOps Engineer,16,Bangalore,3113000,Synthetic Demonstration Data
+32,Female,Bachelor's,Software Engineer,10,Hyderabad,2444000,Synthetic Demonstration Data
+34,Male,Bachelor's,Product Manager,7,Mumbai,2559000,Synthetic Demonstration Data
+46,Male,Master's,Data Scientist,15,Delhi-NCR,3251000,Synthetic Demonstration Data
+51,Female,High School,Engineering Manager,19,Mumbai,3721000,Synthetic Demonstration Data
+50,Male,PhD,Software Engineer,20,Delhi-NCR,3426000,Synthetic Demonstration Data
+54,Female,Bachelor's,Software Engineer,22,Mumbai,3390000,Synthetic Demonstration Data
+53,Female,Bachelor's,Financial Analyst,23,Bangalore,3545000,Synthetic Demonstration Data
+56,Female,Master's,Data Scientist,23,Mumbai,3877000,Synthetic Demonstration Data
+62,Female,Master's,Senior Software Engineer,27,Mumbai,4674000,Synthetic Demonstration Data
+35,Male,Master's,Data Scientist,8,Delhi-NCR,2703000,Synthetic Demonstration Data
+43,Male,Bachelor's,Senior Software Engineer,12,Delhi-NCR,1999000,Synthetic Demonstration Data
+35,Male,Master's,Senior Software Engineer,8,Mumbai,2187000,Synthetic Demonstration Data
+61,Female,Bachelor's,Software Engineer,31,Mumbai,4980000,Synthetic Demonstration Data
+43,Female,Bachelor's,Software Engineer,18,Remote / Tier 2 Cities,2607000,Synthetic Demonstration Data
+36,Male,Bachelor's,Software Engineer,11,Hyderabad,2376000,Synthetic Demonstration Data
+31,Female,Master's,DevOps Engineer,7,Bangalore,2463000,Synthetic Demonstration Data
+36,Male,Bachelor's,Senior Software Engineer,11,Hyderabad,2495000,Synthetic Demonstration Data
+41,Female,PhD,Machine Learning Engineer,9,Bangalore,2987000,Synthetic Demonstration Data
+50,Female,Master's,Machine Learning Engineer,13,Delhi-NCR,3202000,Synthetic Demonstration Data
+58,Other,Master's,DevOps Engineer,22,Bangalore,4129000,Synthetic Demonstration Data
+38,Male,PhD,Senior Software Engineer,6,Mumbai,2248000,Synthetic Demonstration Data
+41,Male,Bachelor's,Senior Software Engineer,17,Remote / Tier 2 Cities,2746000,Synthetic Demonstration Data
+43,Male,Bachelor's,Engineering Manager,19,Bangalore,3535000,Synthetic Demonstration Data
+26,Female,Bachelor's,Data Analyst,0,Bangalore,720000,Synthetic Demonstration Data
+62,Male,Master's,Software Engineer,30,Remote / Tier 2 Cities,3774000,Synthetic Demonstration Data
+52,Male,Bachelor's,HR Specialist,20,Bangalore,3291000,Synthetic Demonstration Data
+34,Female,Bachelor's,Financial Analyst,8,Delhi-NCR,2147000,Synthetic Demonstration Data
+45,Male,Bachelor's,Data Scientist,14,Remote / Tier 2 Cities,2553000,Synthetic Demonstration Data
+37,Female,High School,Data Analyst,9,Chennai,1697000,Synthetic Demonstration Data
+57,Female,Bachelor's,Financial Analyst,28,Mumbai,3755000,Synthetic Demonstration Data
+59,Female,Bachelor's,Senior Software Engineer,22,Bangalore,3648000,Synthetic Demonstration Data
+40,Female,High School,Machine Learning Engineer,17,Bangalore,3002000,Synthetic Demonstration Data
+30,Female,Bachelor's,Senior Software Engineer,7,Bangalore,2124000,Synthetic Demonstration Data
+58,Female,Bachelor's,Senior Software Engineer,30,Delhi-NCR,4534000,Synthetic Demonstration Data
+37,Male,PhD,Senior Software Engineer,10,Delhi-NCR,2602000,Synthetic Demonstration Data
+51,Female,PhD,HR Specialist,13,Delhi-NCR,3013000,Synthetic Demonstration Data
+44,Female,Bachelor's,Data Scientist,13,Remote / Tier 2 Cities,1980000,Synthetic Demonstration Data
+59,Female,Master's,Data Scientist,25,Bangalore,4347000,Synthetic Demonstration Data
+48,Male,Bachelor's,Engineering Manager,21,Bangalore,4562000,Synthetic Demonstration Data
+23,Female,Bachelor's,HR Specialist,1,Pune,794000,Synthetic Demonstration Data
+40,Male,Master's,HR Specialist,11,Mumbai,2275000,Synthetic Demonstration Data
+43,Male,Bachelor's,Senior Software Engineer,18,Bangalore,3126000,Synthetic Demonstration Data
+38,Female,Bachelor's,Data Scientist,11,Mumbai,2501000,Synthetic Demonstration Data
+42,Male,Bachelor's,Financial Analyst,15,Mumbai,2240000,Synthetic Demonstration Data
+39,Male,Bachelor's,Software Engineer,15,Hyderabad,2879000,Synthetic Demonstration Data
+61,Male,Master's,Senior Software Engineer,25,Delhi-NCR,4187000,Synthetic Demonstration Data
+58,Female,Bachelor's,Data Scientist,29,Chennai,4915000,Synthetic Demonstration Data
+25,Male,Master's,Financial Analyst,1,Mumbai,1475000,Synthetic Demonstration Data
+45,Female,Bachelor's,Data Analyst,18,Bangalore,2725000,Synthetic Demonstration Data
+29,Female,High School,HR Specialist,11,Hyderabad,1778000,Synthetic Demonstration Data
+53,Female,Bachelor's,DevOps Engineer,22,Pune,3634000,Synthetic Demonstration Data
+55,Other,Bachelor's,Software Engineer,24,Delhi-NCR,3881000,Synthetic Demonstration Data
+33,Female,Bachelor's,Software Engineer,4,Remote / Tier 2 Cities,1295000,Synthetic Demonstration Data
+35,Male,Bachelor's,Engineering Manager,11,Bangalore,3327000,Synthetic Demonstration Data
+44,Male,High School,Product Manager,16,Bangalore,2942000,Synthetic Demonstration Data
+48,Male,Bachelor's,Data Analyst,16,Pune,2690000,Synthetic Demonstration Data
+24,Male,Bachelor's,DevOps Engineer,2,Remote / Tier 2 Cities,894000,Synthetic Demonstration Data
+39,Female,Master's,Senior Software Engineer,13,Pune,3127000,Synthetic Demonstration Data
+54,Male,PhD,Senior Software Engineer,14,Hyderabad,3190000,Synthetic Demonstration Data
+50,Female,Bachelor's,Product Manager,23,Bangalore,4042000,Synthetic Demonstration Data
+33,Female,Bachelor's,DevOps Engineer,3,Delhi-NCR,1468000,Synthetic Demonstration Data
+42,Female,PhD,Software Engineer,8,Hyderabad,2450000,Synthetic Demonstration Data
+40,Female,PhD,Engineering Manager,11,Hyderabad,3490000,Synthetic Demonstration Data
+58,Male,Master's,Machine Learning Engineer,29,Bangalore,4146000,Synthetic Demonstration Data
+49,Female,High School,DevOps Engineer,20,Bangalore,2943000,Synthetic Demonstration Data
+59,Female,Bachelor's,HR Specialist,21,Bangalore,3668000,Synthetic Demonstration Data
+46,Male,Bachelor's,DevOps Engineer,14,Chennai,2829000,Synthetic Demonstration Data
+32,Male,Master's,Senior Software Engineer,6,Delhi-NCR,2404000,Synthetic Demonstration Data
+52,Male,Master's,Data Analyst,20,Bangalore,3392000,Synthetic Demonstration Data
+34,Male,Bachelor's,Machine Learning Engineer,10,Pune,2563000,Synthetic Demonstration Data
+44,Male,PhD,HR Specialist,12,Bangalore,3012000,Synthetic Demonstration Data
+45,Male,Bachelor's,Senior Software Engineer,16,Pune,2872000,Synthetic Demonstration Data
+25,Female,Master's,Data Analyst,1,Delhi-NCR,1285000,Synthetic Demonstration Data
+45,Male,PhD,Senior Software Engineer,13,Mumbai,3393000,Synthetic Demonstration Data
+61,Male,Bachelor's,Data Scientist,28,Hyderabad,4166000,Synthetic Demonstration Data
+25,Female,Bachelor's,DevOps Engineer,1,Bangalore,833000,Synthetic Demonstration Data
+56,Female,High School,DevOps Engineer,29,Pune,3525000,Synthetic Demonstration Data
+41,Male,Bachelor's,Software Engineer,19,Chennai,2978000,Synthetic Demonstration Data
+36,Male,Master's,Product Manager,5,Delhi-NCR,2492000,Synthetic Demonstration Data
+54,Male,Bachelor's,Senior Software Engineer,27,Bangalore,4257000,Synthetic Demonstration Data
+49,Female,Bachelor's,Data Scientist,16,Delhi-NCR,2975000,Synthetic Demonstration Data
+59,Male,Master's,Data Analyst,28,Hyderabad,3753000,Synthetic Demonstration Data
+46,Female,Bachelor's,Data Analyst,22,Delhi-NCR,3504000,Synthetic Demonstration Data
+60,Female,Master's,Data Analyst,28,Pune,3993000,Synthetic Demonstration Data
+51,Female,Bachelor's,Software Engineer,23,Mumbai,3336000,Synthetic Demonstration Data
+40,Female,Master's,Senior Software Engineer,10,Hyderabad,2536000,Synthetic Demonstration Data
+43,Female,Master's,Product Manager,15,Chennai,3200000,Synthetic Demonstration Data
+27,Male,Bachelor's,Data Scientist,2,Pune,1221000,Synthetic Demonstration Data
+53,Female,PhD,Senior Software Engineer,19,Mumbai,4255000,Synthetic Demonstration Data
+31,Male,Bachelor's,Engineering Manager,8,Bangalore,2911000,Synthetic Demonstration Data
+57,Female,PhD,DevOps Engineer,22,Mumbai,3847000,Synthetic Demonstration Data
+60,Male,Master's,Software Engineer,30,Bangalore,4145000,Synthetic Demonstration Data
+61,Male,Bachelor's,DevOps Engineer,30,Hyderabad,3548000,Synthetic Demonstration Data
+37,Female,Bachelor's,Machine Learning Engineer,8,Mumbai,2591000,Synthetic Demonstration Data
+39,Male,Master's,Software Engineer,9,Pune,1503000,Synthetic Demonstration Data
+53,Female,Bachelor's,Software Engineer,24,Delhi-NCR,3716000,Synthetic Demonstration Data
+35,Male,Bachelor's,Software Engineer,6,Mumbai,1534000,Synthetic Demonstration Data
+62,Female,Master's,Data Analyst,30,Mumbai,4022000,Synthetic Demonstration Data
+40,Female,Bachelor's,DevOps Engineer,13,Bangalore,2412000,Synthetic Demonstration Data
+32,Male,Master's,Senior Software Engineer,4,Bangalore,2048000,Synthetic Demonstration Data
+47,Female,Bachelor's,Financial Analyst,15,Mumbai,2215000,Synthetic Demonstration Data
+44,Female,Bachelor's,Data Analyst,15,Chennai,2385000,Synthetic Demonstration Data
+35,Male,High School,Software Engineer,12,Delhi-NCR,1716000,Synthetic Demonstration Data
+52,Female,High School,DevOps Engineer,23,Remote / Tier 2 Cities,3207000,Synthetic Demonstration Data
+48,Male,Bachelor's,Product Manager,22,Remote / Tier 2 Cities,3512000,Synthetic Demonstration Data
+55,Male,Bachelor's,Engineering Manager,25,Mumbai,4281000,Synthetic Demonstration Data
+61,Female,High School,DevOps Engineer,30,Mumbai,4432000,Synthetic Demonstration Data
+46,Male,Bachelor's,Software Engineer,14,Remote / Tier 2 Cities,2649000,Synthetic Demonstration Data
+44,Male,High School,Data Analyst,22,Remote / Tier 2 Cities,2101000,Synthetic Demonstration Data
+38,Female,High School,Machine Learning Engineer,12,Hyderabad,2437000,Synthetic Demonstration Data
+28,Male,Bachelor's,Machine Learning Engineer,6,Bangalore,2069000,Synthetic Demonstration Data
+55,Female,Master's,Machine Learning Engineer,23,Delhi-NCR,4255000,Synthetic Demonstration Data
+29,Female,Bachelor's,Machine Learning Engineer,4,Bangalore,2321000,Synthetic Demonstration Data
+53,Female,Master's,DevOps Engineer,23,Delhi-NCR,3676000,Synthetic Demonstration Data
+46,Male,Bachelor's,Machine Learning Engineer,15,Chennai,2941000,Synthetic Demonstration Data
+37,Female,PhD,Machine Learning Engineer,6,Bangalore,2488000,Synthetic Demonstration Data
+32,Male,PhD,Data Analyst,5,Mumbai,1737000,Synthetic Demonstration Data
+28,Other,Master's,Machine Learning Engineer,4,Mumbai,1953000,Synthetic Demonstration Data
+37,Male,Master's,DevOps Engineer,8,Delhi-NCR,2294000,Synthetic Demonstration Data
+54,Other,Bachelor's,Senior Software Engineer,22,Delhi-NCR,3460000,Synthetic Demonstration Data
+57,Male,Bachelor's,Senior Software Engineer,23,Bangalore,3545000,Synthetic Demonstration Data
+20,Female,High School,Data Analyst,2,Pune,1100000,Synthetic Demonstration Data
+55,Male,High School,Software Engineer,29,Hyderabad,3973000,Synthetic Demonstration Data
+57,Male,Bachelor's,HR Specialist,26,Mumbai,3463000,Synthetic Demonstration Data
+27,Male,Master's,Data Scientist,3,Bangalore,1831000,Synthetic Demonstration Data
+29,Female,Master's,Senior Software Engineer,5,Remote / Tier 2 Cities,2172000,Synthetic Demonstration Data
+46,Female,Master's,Software Engineer,18,Remote / Tier 2 Cities,2681000,Synthetic Demonstration Data
+62,Female,High School,Software Engineer,33,Delhi-NCR,4456000,Synthetic Demonstration Data
+50,Male,Master's,DevOps Engineer,16,Bangalore,3160000,Synthetic Demonstration Data
+48,Male,Master's,Software Engineer,18,Chennai,2926000,Synthetic Demonstration Data
+27,Female,Master's,DevOps Engineer,3,Mumbai,1814000,Synthetic Demonstration Data
+41,Male,Bachelor's,Data Analyst,12,Chennai,2149000,Synthetic Demonstration Data
+53,Female,Bachelor's,Financial Analyst,22,Pune,3241000,Synthetic Demonstration Data
+53,Male,Bachelor's,Software Engineer,21,Bangalore,3513000,Synthetic Demonstration Data
+45,Male,Master's,Senior Software Engineer,16,Hyderabad,3464000,Synthetic Demonstration Data
+46,Male,Bachelor's,Machine Learning Engineer,18,Bangalore,3677000,Synthetic Demonstration Data
+35,Female,High School,Senior Software Engineer,17,Delhi-NCR,3134000,Synthetic Demonstration Data
+58,Female,Master's,Data Scientist,24,Pune,4284000,Synthetic Demonstration Data
+58,Female,Bachelor's,Machine Learning Engineer,28,Delhi-NCR,4962000,Synthetic Demonstration Data
+37,Female,Bachelor's,HR Specialist,10,Pune,1547000,Synthetic Demonstration Data
+61,Male,Bachelor's,Software Engineer,28,Mumbai,3910000,Synthetic Demonstration Data
+31,Female,Master's,Data Scientist,7,Mumbai,2282000,Synthetic Demonstration Data
+27,Female,Bachelor's,Data Analyst,5,Bangalore,1299000,Synthetic Demonstration Data
+59,Male,PhD,Engineering Manager,24,Delhi-NCR,4921000,Synthetic Demonstration Data
+53,Male,Bachelor's,Data Analyst,23,Mumbai,3055000,Synthetic Demonstration Data
+50,Other,Bachelor's,Senior Software Engineer,20,Remote / Tier 2 Cities,3202000,Synthetic Demonstration Data
+37,Female,Bachelor's,Engineering Manager,13,Delhi-NCR,2977000,Synthetic Demonstration Data
+48,Other,High School,Software Engineer,23,Bangalore,3579000,Synthetic Demonstration Data
+60,Male,Master's,Software Engineer,27,Delhi-NCR,4516000,Synthetic Demonstration Data
+55,Female,High School,Software Engineer,30,Bangalore,4163000,Synthetic Demonstration Data
+60,Male,Bachelor's,Data Scientist,27,Bangalore,4265000,Synthetic Demonstration Data
+31,Female,High School,Data Scientist,11,Remote / Tier 2 Cities,1870000,Synthetic Demonstration Data
+37,Male,Bachelor's,DevOps Engineer,11,Bangalore,2350000,Synthetic Demonstration Data
+29,Female,Bachelor's,Senior Software Engineer,5,Bangalore,1795000,Synthetic Demonstration Data
+32,Female,Bachelor's,Product Manager,6,Hyderabad,2214000,Synthetic Demonstration Data
+62,Male,Master's,Product Manager,23,Delhi-NCR,4465000,Synthetic Demonstration Data
+40,Female,Master's,Product Manager,10,Delhi-NCR,3136000,Synthetic Demonstration Data
+55,Male,Bachelor's,Software Engineer,22,Hyderabad,3427000,Synthetic Demonstration Data
+33,Male,PhD,Software Engineer,6,Remote / Tier 2 Cities,1988000,Synthetic Demonstration Data
+41,Female,Master's,Software Engineer,15,Remote / Tier 2 Cities,2457000,Synthetic Demonstration Data
+35,Female,Master's,Engineering Manager,9,Hyderabad,3177000,Synthetic Demonstration Data
+57,Female,Bachelor's,Data Scientist,23,Mumbai,3384000,Synthetic Demonstration Data
+29,Female,Master's,Data Scientist,3,Bangalore,1838000,Synthetic Demonstration Data
+43,Male,Bachelor's,Machine Learning Engineer,14,Bangalore,2779000,Synthetic Demonstration Data
+57,Female,Bachelor's,Data Scientist,30,Hyderabad,4427000,Synthetic Demonstration Data
+38,Male,Master's,DevOps Engineer,10,Bangalore,2318000,Synthetic Demonstration Data
+42,Female,Bachelor's,Data Scientist,18,Bangalore,3509000,Synthetic Demonstration Data
+30,Male,Master's,Senior Software Engineer,4,Bangalore,1777000,Synthetic Demonstration Data
+52,Female,Master's,Software Engineer,21,Chennai,3502000,Synthetic Demonstration Data
+33,Other,Master's,Machine Learning Engineer,4,Pune,1784000,Synthetic Demonstration Data
+54,Male,Master's,Senior Software Engineer,22,Pune,3666000,Synthetic Demonstration Data
+55,Male,Bachelor's,Software Engineer,27,Bangalore,3703000,Synthetic Demonstration Data
+29,Male,PhD,Data Analyst,0,Remote / Tier 2 Cities,1259000,Synthetic Demonstration Data
+62,Female,Master's,Senior Software Engineer,27,Pune,4650000,Synthetic Demonstration Data
+40,Male,Bachelor's,Data Scientist,13,Mumbai,2984000,Synthetic Demonstration Data
+40,Female,Master's,Senior Software Engineer,16,Mumbai,3501000,Synthetic Demonstration Data
+26,Male,High School,DevOps Engineer,3,Delhi-NCR,795000,Synthetic Demonstration Data
+56,Male,High School,Software Engineer,26,Hyderabad,3526000,Synthetic Demonstration Data
+35,Male,Bachelor's,Data Scientist,11,Pune,2094000,Synthetic Demonstration Data
+45,Female,Master's,Financial Analyst,19,Mumbai,3051000,Synthetic Demonstration Data
+60,Female,Bachelor's,HR Specialist,23,Bangalore,3860000,Synthetic Demonstration Data
+44,Male,PhD,DevOps Engineer,17,Bangalore,3690000,Synthetic Demonstration Data
+54,Male,Bachelor's,Financial Analyst,25,Hyderabad,3773000,Synthetic Demonstration Data
+34,Female,Bachelor's,HR Specialist,10,Chennai,2199000,Synthetic Demonstration Data
+51,Female,PhD,Software Engineer,19,Bangalore,3741000,Synthetic Demonstration Data
+48,Female,Master's,Product Manager,17,Remote / Tier 2 Cities,3157000,Synthetic Demonstration Data
+50,Female,Master's,Data Analyst,17,Remote / Tier 2 Cities,2284000,Synthetic Demonstration Data
+43,Female,Master's,Data Analyst,14,Chennai,2623000,Synthetic Demonstration Data
+57,Female,Bachelor's,Software Engineer,25,Mumbai,3618000,Synthetic Demonstration Data
+37,Female,Master's,Data Scientist,11,Bangalore,2987000,Synthetic Demonstration Data
+61,Female,Master's,Senior Software Engineer,26,Chennai,3826000,Synthetic Demonstration Data
+47,Female,Bachelor's,HR Specialist,20,Pune,2663000,Synthetic Demonstration Data
+43,Male,Bachelor's,Machine Learning Engineer,13,Bangalore,2961000,Synthetic Demonstration Data
+44,Female,Bachelor's,Product Manager,16,Mumbai,3182000,Synthetic Demonstration Data
+55,Female,Bachelor's,HR Specialist,24,Delhi-NCR,3257000,Synthetic Demonstration Data
+41,Female,Bachelor's,Software Engineer,11,Hyderabad,2015000,Synthetic Demonstration Data
+41,Male,Master's,HR Specialist,11,Mumbai,2551000,Synthetic Demonstration Data
+32,Female,Bachelor's,HR Specialist,8,Hyderabad,1675000,Synthetic Demonstration Data
+35,Female,Master's,HR Specialist,8,Delhi-NCR,1735000,Synthetic Demonstration Data
+30,Female,Bachelor's,DevOps Engineer,5,Bangalore,1355000,Synthetic Demonstration Data
+30,Female,Master's,Software Engineer,1,Mumbai,1415000,Synthetic Demonstration Data
+43,Female,PhD,Software Engineer,12,Mumbai,3047000,Synthetic Demonstration Data
+30,Male,PhD,Financial Analyst,2,Bangalore,1891000,Synthetic Demonstration Data
+35,Male,Master's,Data Analyst,9,Bangalore,2424000,Synthetic Demonstration Data
+31,Male,Master's,Senior Software Engineer,6,Delhi-NCR,2107000,Synthetic Demonstration Data
+40,Female,Bachelor's,Software Engineer,12,Remote / Tier 2 Cities,1949000,Synthetic Demonstration Data
+53,Female,Master's,Senior Software Engineer,21,Bangalore,3801000,Synthetic Demonstration Data
+57,Male,Master's,Engineering Manager,24,Delhi-NCR,4768000,Synthetic Demonstration Data
+25,Male,Bachelor's,Product Manager,3,Remote / Tier 2 Cities,1658000,Synthetic Demonstration Data
+26,Male,Bachelor's,Data Scientist,4,Delhi-NCR,2018000,Synthetic Demonstration Data
+38,Male,Bachelor's,Software Engineer,9,Hyderabad,1873000,Synthetic Demonstration Data
+34,Male,Bachelor's,Software Engineer,5,Mumbai,1999000,Synthetic Demonstration Data
+43,Female,Master's,Product Manager,14,Delhi-NCR,3189000,Synthetic Demonstration Data
+55,Male,PhD,Senior Software Engineer,22,Mumbai,4307000,Synthetic Demonstration Data
+39,Female,Master's,Product Manager,10,Mumbai,3261000,Synthetic Demonstration Data
+37,Male,Bachelor's,Data Scientist,10,Pune,2542000,Synthetic Demonstration Data
+55,Male,Bachelor's,HR Specialist,26,Bangalore,3621000,Synthetic Demonstration Data
+35,Female,Bachelor's,Engineering Manager,10,Pune,3354000,Synthetic Demonstration Data
+48,Female,Master's,DevOps Engineer,17,Mumbai,3005000,Synthetic Demonstration Data
+36,Female,Bachelor's,Product Manager,9,Pune,2319000,Synthetic Demonstration Data
+38,Male,Master's,Machine Learning Engineer,14,Pune,3158000,Synthetic Demonstration Data
+31,Female,Bachelor's,Engineering Manager,9,Delhi-NCR,3003000,Synthetic Demonstration Data
+57,Female,Bachelor's,Engineering Manager,27,Mumbai,4889000,Synthetic Demonstration Data
+47,Female,Master's,Software Engineer,21,Chennai,2980000,Synthetic Demonstration Data
+22,Male,Bachelor's,Software Engineer,0,Bangalore,1645000,Synthetic Demonstration Data
+33,Male,Bachelor's,Data Analyst,6,Chennai,1621000,Synthetic Demonstration Data
+47,Female,Bachelor's,Data Scientist,19,Pune,3525000,Synthetic Demonstration Data
+62,Female,Bachelor's,Product Manager,27,Chennai,4468000,Synthetic Demonstration Data
+55,Female,Master's,Senior Software Engineer,20,Hyderabad,3821000,Synthetic Demonstration Data
+55,Female,Master's,Financial Analyst,27,Mumbai,4142000,Synthetic Demonstration Data
+55,Female,Master's,Data Scientist,22,Pune,3459000,Synthetic Demonstration Data
+27,Female,Master's,Financial Analyst,0,Mumbai,1314000,Synthetic Demonstration Data
+28,Female,Bachelor's,Software Engineer,6,Bangalore,1560000,Synthetic Demonstration Data
+57,Female,Master's,Engineering Manager,27,Hyderabad,4902000,Synthetic Demonstration Data
+25,Female,Bachelor's,Software Engineer,3,Bangalore,1696000,Synthetic Demonstration Data
+48,Female,Bachelor's,Engineering Manager,20,Delhi-NCR,4281000,Synthetic Demonstration Data
+38,Female,Master's,Data Analyst,10,Chennai,1898000,Synthetic Demonstration Data
+27,Female,Bachelor's,Software Engineer,1,Remote / Tier 2 Cities,758000,Synthetic Demonstration Data
+50,Male,Bachelor's,Software Engineer,23,Mumbai,4135000,Synthetic Demonstration Data
+29,Male,Bachelor's,Senior Software Engineer,4,Mumbai,1955000,Synthetic Demonstration Data
+43,Female,Bachelor's,Senior Software Engineer,13,Hyderabad,2764000,Synthetic Demonstration Data
+44,Female,Bachelor's,Product Manager,17,Delhi-NCR,3441000,Synthetic Demonstration Data
+22,Female,Bachelor's,Financial Analyst,0,Mumbai,1278000,Synthetic Demonstration Data
+55,Female,Bachelor's,HR Specialist,24,Bangalore,3063000,Synthetic Demonstration Data
+42,Female,Bachelor's,Financial Analyst,11,Hyderabad,2214000,Synthetic Demonstration Data
+23,Male,Bachelor's,Software Engineer,0,Hyderabad,937000,Synthetic Demonstration Data
+36,Male,PhD,Financial Analyst,4,Hyderabad,2175000,Synthetic Demonstration Data
+28,Other,High School,Product Manager,9,Bangalore,2390000,Synthetic Demonstration Data
+43,Male,Master's,Software Engineer,18,Mumbai,3574000,Synthetic Demonstration Data
+54,Female,Master's,Data Analyst,19,Delhi-NCR,2695000,Synthetic Demonstration Data
+38,Male,Bachelor's,Software Engineer,14,Bangalore,2963000,Synthetic Demonstration Data
+35,Other,Bachelor's,Product Manager,8,Hyderabad,2433000,Synthetic Demonstration Data
+46,Male,Master's,HR Specialist,14,Bangalore,2928000,Synthetic Demonstration Data
+52,Female,Bachelor's,Software Engineer,18,Mumbai,3312000,Synthetic Demonstration Data
+53,Female,Master's,Machine Learning Engineer,21,Bangalore,3777000,Synthetic Demonstration Data
+40,Female,Master's,Software Engineer,12,Chennai,2186000,Synthetic Demonstration Data
+60,Female,Bachelor's,Engineering Manager,26,Chennai,4096000,Synthetic Demonstration Data
+28,Male,Bachelor's,Senior Software Engineer,4,Bangalore,2164000,Synthetic Demonstration Data
+33,Male,Bachelor's,Financial Analyst,6,Mumbai,1481000,Synthetic Demonstration Data
+53,Male,Bachelor's,Data Scientist,24,Chennai,3382000,Synthetic Demonstration Data
+34,Male,Bachelor's,Software Engineer,10,Mumbai,2258000,Synthetic Demonstration Data
+39,Female,Master's,Product Manager,11,Bangalore,2884000,Synthetic Demonstration Data
+35,Male,Bachelor's,Data Analyst,8,Mumbai,1880000,Synthetic Demonstration Data
+37,Female,Bachelor's,Data Analyst,10,Bangalore,2463000,Synthetic Demonstration Data
+37,Female,Bachelor's,Software Engineer,7,Pune,1619000,Synthetic Demonstration Data
+36,Other,Bachelor's,Product Manager,7,Mumbai,2624000,Synthetic Demonstration Data
+28,Male,Bachelor's,Financial Analyst,6,Mumbai,1912000,Synthetic Demonstration Data
+51,Female,Master's,Senior Software Engineer,22,Bangalore,3943000,Synthetic Demonstration Data
+48,Female,Master's,Financial Analyst,16,Mumbai,3256000,Synthetic Demonstration Data
+37,Male,Master's,Financial Analyst,9,Mumbai,2453000,Synthetic Demonstration Data
+48,Female,Bachelor's,Data Analyst,15,Pune,2161000,Synthetic Demonstration Data
+37,Male,Master's,Data Scientist,6,Mumbai,2492000,Synthetic Demonstration Data
+38,Male,High School,Software Engineer,16,Delhi-NCR,2368000,Synthetic Demonstration Data
+36,Female,Bachelor's,Financial Analyst,7,Hyderabad,1651000,Synthetic Demonstration Data
+38,Male,Master's,Senior Software Engineer,9,Delhi-NCR,2763000,Synthetic Demonstration Data
+49,Male,Bachelor's,Product Manager,19,Hyderabad,3511000,Synthetic Demonstration Data
+40,Male,PhD,Software Engineer,9,Hyderabad,2204000,Synthetic Demonstration Data
+56,Male,Master's,Product Manager,24,Chennai,4137000,Synthetic Demonstration Data
+55,Male,Bachelor's,Engineering Manager,23,Chennai,3795000,Synthetic Demonstration Data
+27,Female,Master's,Machine Learning Engineer,2,Mumbai,1902000,Synthetic Demonstration Data
+52,Female,Bachelor's,Machine Learning Engineer,23,Hyderabad,3504000,Synthetic Demonstration Data
+58,Female,Master's,Product Manager,23,Hyderabad,3617000,Synthetic Demonstration Data
+43,Male,Bachelor's,Software Engineer,14,Delhi-NCR,2515000,Synthetic Demonstration Data
+31,Female,Bachelor's,HR Specialist,9,Hyderabad,1817000,Synthetic Demonstration Data
+35,Female,High School,Senior Software Engineer,13,Chennai,2550000,Synthetic Demonstration Data
+60,Female,Bachelor's,Software Engineer,26,Bangalore,4021000,Synthetic Demonstration Data
+33,Male,Bachelor's,Data Analyst,9,Bangalore,2370000,Synthetic Demonstration Data
+49,Male,Master's,Software Engineer,16,Delhi-NCR,3024000,Synthetic Demonstration Data
+49,Female,Bachelor's,Data Scientist,23,Remote / Tier 2 Cities,4079000,Synthetic Demonstration Data
+54,Female,Master's,Software Engineer,20,Chennai,3408000,Synthetic Demonstration Data
+58,Female,PhD,Software Engineer,26,Pune,4573000,Synthetic Demonstration Data
+45,Female,Master's,Product Manager,14,Bangalore,3482000,Synthetic Demonstration Data
+46,Female,Master's,Product Manager,14,Delhi-NCR,3696000,Synthetic Demonstration Data
+29,Female,Master's,Data Analyst,1,Hyderabad,1516000,Synthetic Demonstration Data
+42,Male,Master's,Financial Analyst,12,Mumbai,3052000,Synthetic Demonstration Data
+52,Female,Bachelor's,Data Scientist,15,Remote / Tier 2 Cities,2291000,Synthetic Demonstration Data
+29,Female,Bachelor's,Software Engineer,3,Bangalore,2170000,Synthetic Demonstration Data
+62,Male,Bachelor's,Software Engineer,29,Pune,3643000,Synthetic Demonstration Data
+59,Male,Bachelor's,Data Analyst,26,Hyderabad,3431000,Synthetic Demonstration Data
+46,Female,Bachelor's,Data Scientist,18,Pune,2713000,Synthetic Demonstration Data
+29,Male,Bachelor's,DevOps Engineer,3,Delhi-NCR,1454000,Synthetic Demonstration Data
+33,Male,Bachelor's,Engineering Manager,8,Remote / Tier 2 Cities,2711000,Synthetic Demonstration Data
+52,Female,Bachelor's,Software Engineer,20,Pune,3013000,Synthetic Demonstration Data
+37,Other,Master's,Software Engineer,5,Hyderabad,1918000,Synthetic Demonstration Data
+22,Female,High School,DevOps Engineer,4,Chennai,1249000,Synthetic Demonstration Data
+45,Female,Bachelor's,Product Manager,13,Bangalore,2947000,Synthetic Demonstration Data
+44,Male,Bachelor's,DevOps Engineer,11,Bangalore,1983000,Synthetic Demonstration Data
+33,Female,Master's,Software Engineer,5,Bangalore,2104000,Synthetic Demonstration Data
+47,Male,Bachelor's,Data Analyst,22,Delhi-NCR,3240000,Synthetic Demonstration Data
+35,Male,Master's,HR Specialist,7,Remote / Tier 2 Cities,1671000,Synthetic Demonstration Data
+42,Other,Bachelor's,Machine Learning Engineer,9,Bangalore,2502000,Synthetic Demonstration Data
+40,Female,Master's,Software Engineer,10,Mumbai,2479000,Synthetic Demonstration Data

@@ -1,0 +1,201 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Area,Actual_Salary,Predicted_Salary,LR_Predicted_Salary
+38,Female,Bachelor's,Financial Analyst,10,Mumbai,2368000,2293493.39,2118523.69
+29,Female,High School,HR Specialist,11,Hyderabad,1778000,1963617.14,1770623.33
+33,Female,Bachelor's,Software Engineer,4,Remote / Tier 2 Cities,1295000,1580564.73,1289405.26
+44,Female,Bachelor's,Financial Analyst,16,Bangalore,2837000,2771256.54,2741648.2
+39,Female,Bachelor's,Data Analyst,12,Bangalore,2206000,2446212.95,2260573.73
+60,Female,Master's,Product Manager,27,Hyderabad,5059000,4561969.01,4616147.51
+25,Female,Master's,HR Specialist,0,Mumbai,1295000,1256218.61,1195436.95
+26,Male,Bachelor's,Data Analyst,1,Hyderabad,1013000,1131674.95,1010712.17
+55,Male,Bachelor's,Software Engineer,27,Bangalore,3703000,3895582.67,3912570.92
+29,Male,Master's,Financial Analyst,5,Hyderabad,1967000,1952253.8,1720291.61
+57,Male,Bachelor's,HR Specialist,26,Mumbai,3463000,3525553.63,3594290.61
+61,Female,Bachelor's,Machine Learning Engineer,31,Chennai,4543000,4556743.53,4554576.96
+61,Male,High School,Data Analyst,33,Delhi-NCR,4075000,4169476.82,4129346.95
+60,Female,Bachelor's,Software Engineer,26,Bangalore,4021000,4030269.5,3878997.0
+38,Male,Bachelor's,Software Engineer,14,Bangalore,2963000,2519620.05,2570910.79
+34,Male,Bachelor's,Software Engineer,5,Mumbai,1999000,1711797.05,1673256.35
+40,Male,Master's,Data Analyst,8,Bangalore,2266000,2257369.92,2092744.64
+41,Female,Bachelor's,Software Engineer,11,Hyderabad,2015000,2163145.25,2244029.15
+45,Male,PhD,Senior Software Engineer,13,Mumbai,3393000,3159096.77,3267482.55
+41,Female,Master's,Software Engineer,13,Mumbai,2516000,2710842.72,2751009.82
+28,Female,Master's,Software Engineer,4,Delhi-NCR,1593000,1823996.97,1778295.48
+23,Female,Bachelor's,Software Engineer,1,Bangalore,1393000,891980.12,1273365.77
+30,Other,High School,Senior Software Engineer,12,Hyderabad,2401000,2195155.36,2330727.4
+28,Female,Bachelor's,Product Manager,3,Mumbai,1973000,1921279.48,1970951.45
+28,Male,Bachelor's,Data Analyst,6,Bangalore,1471000,1847474.98,1590396.34
+28,Female,High School,Financial Analyst,9,Delhi-NCR,2108000,1865478.0,1744759.04
+31,Male,Master's,Software Engineer,3,Chennai,1695000,1657149.88,1567200.0
+59,Male,Bachelor's,Data Analyst,26,Hyderabad,3431000,3779726.74,3592650.35
+39,Female,Master's,Product Manager,10,Mumbai,3261000,2976333.18,2944670.58
+53,Male,Bachelor's,Data Scientist,24,Chennai,3382000,3855384.16,3707751.92
+32,Male,Master's,Software Engineer,7,Bangalore,2216000,2061149.04,2107510.97
+58,Female,Master's,Senior Software Engineer,27,Pune,3821000,4407086.12,4352633.88
+39,Male,Bachelor's,Product Manager,15,Hyderabad,3337000,2974881.63,3073633.07
+52,Female,High School,Machine Learning Engineer,25,Bangalore,3977000,3753681.47,3898576.46
+30,Male,Bachelor's,Data Scientist,2,Mumbai,1300000,1719009.12,1609143.26
+32,Female,Master's,Senior Software Engineer,4,Hyderabad,2236000,2035467.76,2008541.3
+44,Female,Bachelor's,DevOps Engineer,16,Bangalore,3113000,2940535.35,2855881.07
+52,Male,Bachelor's,Senior Software Engineer,19,Mumbai,3485000,3448787.34,3361980.32
+55,Male,PhD,Senior Software Engineer,22,Mumbai,4307000,3813265.96,4185844.56
+40,Male,Master's,HR Specialist,10,Hyderabad,2177000,2083202.71,2130893.99
+32,Male,Bachelor's,Software Engineer,10,Mumbai,1856000,2235292.82,2138703.92
+37,Male,Master's,Software Engineer,8,Pune,1802000,2107684.49,2136577.45
+22,Female,Bachelor's,Software Engineer,0,Bangalore,538000,1198654.1,1171983.68
+33,Male,Bachelor's,Data Analyst,9,Bangalore,2370000,2003139.29,1906389.12
+42,Male,Master's,Data Scientist,15,Hyderabad,3238000,3086695.07,3085827.03
+40,Male,High School,Data Scientist,18,Mumbai,2755000,3050536.11,3013226.34
+38,Female,Master's,Data Analyst,10,Chennai,1898000,2423288.73,2151531.89
+48,Male,Bachelor's,Software Engineer,18,Bangalore,3372000,3122453.96,3011978.7
+49,Male,Bachelor's,Senior Software Engineer,22,Mumbai,4169000,3604840.19,3630586.98
+55,Female,High School,Software Engineer,30,Bangalore,4163000,3932665.3,4048725.3
+62,Male,Master's,Senior Software Engineer,26,Bangalore,4467000,4432875.55,4344608.2
+47,Female,Bachelor's,HR Specialist,20,Pune,2663000,3009268.25,2913397.0
+37,Female,Master's,DevOps Engineer,13,Bangalore,3422000,2772926.78,2768393.26
+33,Male,Bachelor's,DevOps Engineer,10,Mumbai,1734000,2252699.27,2170871.66
+28,Female,Bachelor's,Data Analyst,5,Pune,1178000,1667468.98,1431197.44
+49,Male,Master's,Senior Software Engineer,16,Delhi-NCR,3124000,3219986.29,3261603.03
+26,Male,Master's,Machine Learning Engineer,2,Hyderabad,1777000,1619755.83,1849048.79
+56,Female,Bachelor's,Software Engineer,21,Mumbai,3497000,3563395.75,3363177.83
+30,Male,Master's,Senior Software Engineer,4,Delhi-NCR,1745000,1976448.06,2003555.19
+53,Female,Bachelor's,Financial Analyst,22,Pune,3241000,3536022.77,3271701.83
+40,Male,Master's,Data Scientist,10,Pune,2643000,2273369.4,2591221.3
+62,Female,Master's,HR Specialist,31,Mumbai,4381000,3958088.25,4373821.1
+25,Male,High School,Software Engineer,4,Delhi-NCR,1551000,1543649.49,1305414.97
+34,Female,Bachelor's,Software Engineer,6,Hyderabad,1644000,1731099.16,1725272.21
+39,Male,Master's,Product Manager,9,Delhi-NCR,2489000,2926691.87,2780360.65
+50,Male,PhD,Software Engineer,20,Delhi-NCR,3426000,3510984.75,3683046.31
+43,Female,PhD,Data Scientist,15,Pune,3694000,3322031.55,3397920.26
+35,Male,Bachelor's,Data Scientist,11,Pune,2094000,2278583.01,2416712.31
+55,Female,PhD,Data Scientist,19,Hyderabad,3882000,3685931.78,3856299.81
+38,Male,Bachelor's,Software Engineer,10,Mumbai,1932000,2301885.39,2174243.5
+62,Female,Bachelor's,Engineering Manager,30,Bangalore,5240000,4549992.98,5111655.18
+38,Male,High School,Engineering Manager,13,Pune,2812000,3051209.21,3035929.04
+25,Female,Bachelor's,DevOps Engineer,1,Mumbai,1023000,1030945.78,1296624.76
+35,Male,Bachelor's,Engineering Manager,11,Bangalore,3327000,3162341.54,3105740.92
+60,Male,Master's,Engineering Manager,23,Bangalore,4388000,4463686.37,4639679.84
+51,Female,Bachelor's,Data Analyst,19,Pune,2919000,3097923.48,2903855.97
+39,Male,Master's,Senior Software Engineer,7,Delhi-NCR,2450000,2293824.3,2343241.02
+44,Female,Bachelor's,DevOps Engineer,15,Mumbai,2807000,2822797.39,2745590.23
+52,Female,Bachelor's,Data Scientist,20,Chennai,3247000,3381215.73,3352261.96
+33,Female,Master's,DevOps Engineer,9,Bangalore,2512000,2293145.8,2362864.93
+34,Female,Bachelor's,Software Engineer,11,Bangalore,2379000,2253816.63,2293109.86
+26,Male,Master's,Data Analyst,1,Delhi-NCR,1572000,1316644.75,1290192.66
+21,Female,High School,Software Engineer,3,Chennai,945000,1227463.93,1117393.79
+55,Male,Master's,Senior Software Engineer,18,Bangalore,3679000,3467768.4,3539474.8
+30,Male,Bachelor's,Senior Software Engineer,6,Pune,1776000,1849206.36,1909527.23
+58,Male,Bachelor's,DevOps Engineer,29,Bangalore,4290000,4051475.58,4147502.83
+42,Other,Bachelor's,Machine Learning Engineer,9,Bangalore,2502000,2487827.36,2487697.59
+34,Female,Bachelor's,Financial Analyst,8,Delhi-NCR,2147000,2050555.6,1867330.46
+59,Female,Bachelor's,HR Specialist,21,Bangalore,3668000,3592684.59,3175943.64
+42,Male,Bachelor's,DevOps Engineer,15,Bangalore,2284000,2834833.49,2716307.15
+53,Male,Master's,Software Engineer,25,Delhi-NCR,4174000,3857222.18,3898743.7
+56,Female,Bachelor's,Product Manager,22,Delhi-NCR,3926000,3846844.59,3913937.86
+41,Female,Master's,Product Manager,11,Bangalore,3321000,2988457.85,3066807.94
+40,Female,Bachelor's,Data Analyst,9,Bangalore,2253000,2158375.14,1980120.54
+32,Male,Master's,Senior Software Engineer,4,Bangalore,2048000,2083243.92,2066816.27
+46,Female,Master's,Data Scientist,18,Delhi-NCR,3676000,3129956.35,3467294.12
+56,Female,High School,DevOps Engineer,29,Pune,3525000,4188896.09,3889425.57
+47,Female,Bachelor's,Software Engineer,15,Mumbai,2863000,2671548.18,2737115.55
+60,Male,Bachelor's,Data Analyst,29,Pune,4230000,3918961.16,3879484.96
+58,Female,Bachelor's,Machine Learning Engineer,28,Delhi-NCR,4962000,4322667.99,4351568.59
+37,Female,High School,Data Analyst,9,Chennai,1697000,2289295.27,1627307.66
+48,Male,High School,DevOps Engineer,22,Pune,3263000,3277266.55,3141559.15
+43,Male,Master's,Software Engineer,18,Mumbai,3574000,2969919.39,3207881.86
+46,Male,Bachelor's,Software Engineer,17,Mumbai,2875000,2841717.42,2889841.34
+62,Male,PhD,DevOps Engineer,26,Bangalore,4511000,4452476.43,4404537.42
+27,Female,Master's,Data Scientist,2,Delhi-NCR,1962000,1546631.71,1827411.0
+27,Male,Master's,Financial Analyst,1,Pune,1521000,1408631.89,1321144.7
+37,Male,Master's,Data Scientist,6,Mumbai,2492000,2206017.42,2272792.88
+47,Male,Master's,Financial Analyst,17,Pune,3108000,2913973.88,2966951.07
+55,Female,Master's,Financial Analyst,27,Mumbai,4142000,3933000.25,4082370.59
+25,Male,Master's,Software Engineer,0,Bangalore,1485000,1279130.85,1397836.39
+46,Male,Bachelor's,Machine Learning Engineer,18,Bangalore,3677000,3134510.53,3345047.22
+62,Male,Bachelor's,Software Engineer,29,Pune,3643000,4114247.37,4048942.75
+50,Male,Master's,DevOps Engineer,16,Bangalore,3160000,2980941.33,3099503.57
+49,Female,Bachelor's,Product Manager,20,Pune,3791000,3341569.38,3636963.27
+49,Female,Bachelor's,Senior Software Engineer,18,Hyderabad,3451000,3075389.56,3205308.75
+37,Male,Master's,Machine Learning Engineer,8,Mumbai,2076000,2593067.79,2562669.13
+58,Female,PhD,Software Engineer,26,Pune,4573000,4342258.45,4290859.81
+22,Female,Bachelor's,Financial Analyst,0,Pune,836000,1159700.93,987986.64
+49,Female,Bachelor's,Machine Learning Engineer,19,Pune,3316000,3129916.78,3394535.75
+31,Male,Master's,Senior Software Engineer,6,Delhi-NCR,2107000,2278271.46,2200396.09
+42,Female,Bachelor's,Senior Software Engineer,15,Remote / Tier 2 Cities,2872000,2712987.27,2638443.4
+52,Male,Bachelor's,HR Specialist,20,Bangalore,3291000,3202674.36,3006753.4
+61,Male,Master's,Senior Software Engineer,28,Bangalore,4224000,4350136.69,4529602.57
+40,Other,Master's,Software Engineer,10,Delhi-NCR,2240000,2203146.56,2415331.79
+61,Male,Master's,Machine Learning Engineer,26,Pune,4143000,4257763.03,4341909.56
+47,Female,Bachelor's,Software Engineer,16,Hyderabad,2659000,2735817.4,2756862.83
+23,Female,Bachelor's,Financial Analyst,0,Delhi-NCR,451000,814105.14,1038504.0
+45,Female,Master's,Financial Analyst,19,Mumbai,3051000,3187283.09,3259467.4
+29,Female,Bachelor's,Machine Learning Engineer,4,Bangalore,2321000,1921793.95,1940196.84
+34,Female,Bachelor's,DevOps Engineer,10,Delhi-NCR,2496000,2226428.53,2172480.96
+57,Female,Bachelor's,Data Scientist,23,Mumbai,3384000,3740000.2,3805975.15
+45,Male,Bachelor's,Engineering Manager,19,Delhi-NCR,3640000,3796459.46,3877229.56
+33,Female,Master's,Software Engineer,5,Bangalore,2104000,1988906.8,1954785.18
+29,Female,Bachelor's,Data Analyst,5,Remote / Tier 2 Cities,1093000,1656316.78,1203559.76
+60,Male,Bachelor's,Senior Software Engineer,31,Hyderabad,4499000,4348203.79,4479160.72
+39,Male,Master's,HR Specialist,15,Delhi-NCR,2408000,2827166.65,2641393.81
+56,Male,Bachelor's,DevOps Engineer,31,Bangalore,3922000,4217173.93,4326573.94
+29,Other,Master's,Senior Software Engineer,5,Bangalore,2225000,2177858.87,2169978.1
+37,Female,Master's,HR Specialist,8,Pune,1703000,1854929.16,1949010.03
+50,Female,Master's,Machine Learning Engineer,16,Bangalore,3704000,3139891.44,3450442.71
+48,Male,High School,Software Engineer,20,Remote / Tier 2 Cities,2441000,3141097.68,2690836.09
+58,Female,Bachelor's,Senior Software Engineer,30,Delhi-NCR,4534000,4411773.91,4443252.94
+27,Male,Master's,Machine Learning Engineer,3,Bangalore,2041000,1786336.38,2040974.42
+40,Female,Bachelor's,Software Engineer,12,Remote / Tier 2 Cities,1949000,2361029.07,2094538.66
+47,Female,Bachelor's,Data Scientist,19,Pune,3525000,3115715.22,3283730.6
+55,Male,High School,Software Engineer,29,Hyderabad,3973000,3897589.66,3830454.36
+44,Male,Master's,Software Engineer,14,Mumbai,3143000,2836676.38,2831969.85
+45,Male,Master's,Senior Software Engineer,16,Hyderabad,3464000,3196282.89,3198780.98
+31,Male,Bachelor's,DevOps Engineer,9,Bangalore,2221000,1905621.57,2078398.33
+46,Female,Master's,DevOps Engineer,17,Mumbai,3096000,3069377.6,3188705.9
+61,Male,Bachelor's,Software Engineer,31,Mumbai,3980000,4370886.03,4315113.76
+54,Female,Master's,Software Engineer,20,Chennai,3408000,3532969.39,3358503.56
+35,Male,Bachelor's,HR Specialist,9,Bangalore,1845000,1938095.04,1856010.9
+52,Female,Bachelor's,Software Engineer,18,Mumbai,3312000,3008248.66,3053108.32
+38,Female,Master's,Financial Analyst,7,Remote / Tier 2 Cities,1508000,2197646.13,1757761.15
+44,Female,Bachelor's,Data Scientist,19,Bangalore,3768000,3244296.92,3361969.46
+35,Male,Master's,Data Scientist,8,Delhi-NCR,2703000,2245675.67,2415281.45
+42,Female,Master's,Data Analyst,16,Bangalore,2943000,2969098.78,2900530.3
+41,Male,Master's,HR Specialist,11,Mumbai,2551000,2186649.26,2307987.6
+32,Female,Bachelor's,DevOps Engineer,6,Bangalore,1583000,1670572.88,1830213.72
+54,Male,Bachelor's,Senior Software Engineer,27,Bangalore,4257000,3947242.62,4152329.41
+59,Female,High School,HR Specialist,32,Bangalore,3700000,3910829.12,4043499.99
+40,Male,Bachelor's,Machine Learning Engineer,14,Hyderabad,2881000,2771945.59,2837128.81
+56,Male,High School,Software Engineer,26,Hyderabad,3526000,4086765.27,3550001.16
+58,Female,Bachelor's,Senior Software Engineer,26,Mumbai,4056000,4177318.35,4098000.21
+60,Male,Bachelor's,DevOps Engineer,27,Hyderabad,3884000,3940614.8,3877888.17
+34,Male,Bachelor's,Product Manager,7,Mumbai,2559000,2294523.41,2356057.73
+56,Female,High School,Financial Analyst,29,Pune,4064000,4118197.76,3775192.7
+49,Female,Master's,Senior Software Engineer,16,Delhi-NCR,3097000,3216394.52,3293871.6
+52,Female,Master's,DevOps Engineer,20,Bangalore,3823000,3446551.91,3525453.95
+49,Female,PhD,Software Engineer,14,Bangalore,3446000,3122287.29,3188053.26
+47,Male,Bachelor's,Software Engineer,16,Mumbai,2415000,2795124.08,2800305.79
+33,Male,Bachelor's,Engineering Manager,8,Remote / Tier 2 Cities,2711000,2986009.9,2477948.34
+29,Male,Bachelor's,DevOps Engineer,5,Delhi-NCR,1665000,1605414.08,1633301.97
+34,Male,Master's,Financial Analyst,9,Bangalore,2552000,2336172.39,2222286.75
+42,Male,Bachelor's,HR Specialist,17,Hyderabad,2424000,2768993.23,2570600.75
+39,Male,Master's,Data Analyst,12,Bangalore,2679000,2734008.07,2468656.65
+46,Male,Bachelor's,Machine Learning Engineer,15,Chennai,2941000,2934504.71,2906118.32
+41,Male,Bachelor's,Software Engineer,12,Delhi-NCR,1755000,2203262.88,2346348.39
+52,Female,Bachelor's,Senior Software Engineer,20,Mumbai,3332000,3475674.41,3489707.71
+47,Male,Bachelor's,Engineering Manager,16,Delhi-NCR,3875000,3558828.27,3602699.63
+42,Female,Bachelor's,HR Specialist,15,Delhi-NCR,2549000,2529510.16,2451080.69
+40,Male,Bachelor's,Data Scientist,17,Pune,2906000,2931862.74,3019081.54
+55,Male,Bachelor's,Software Engineer,22,Hyderabad,3427000,3498103.02,3344733.28
+35,Male,High School,DevOps Engineer,13,Bangalore,2098000,2491378.41,2301436.01
+33,Female,Bachelor's,Software Engineer,6,Hyderabad,1639000,1643247.87,1719348.95
+23,Male,Bachelor's,DevOps Engineer,1,Mumbai,1477000,880511.23,1252509.65
+53,Female,Master's,Machine Learning Engineer,21,Bangalore,3777000,3804483.78,3945506.59
+42,Female,PhD,Software Engineer,8,Hyderabad,2450000,2536815.4,2483293.95
+34,Male,Bachelor's,Software Engineer,10,Mumbai,2258000,2244066.96,2150550.44
+31,Female,Master's,Data Scientist,7,Mumbai,2282000,2132168.48,2364980.69
+37,Female,Bachelor's,Software Engineer,11,Remote / Tier 2 Cities,1934000,2289040.12,1981310.05
+47,Male,Bachelor's,DevOps Engineer,19,Mumbai,3281000,3200525.96,3112926.72
+39,Male,Bachelor's,Data Scientist,8,Pune,2246000,2127600.16,2154028.91
+25,Female,High School,Data Scientist,7,Bangalore,1736000,1739676.95,1921430.97
+38,Female,Bachelor's,Software Engineer,8,Delhi-NCR,1714000,2083944.45,1979011.9
+50,Female,Bachelor's,Machine Learning Engineer,21,Bangalore,3905000,3547669.04,3687385.3
+38,Male,Master's,Data Scientist,5,Bangalore,2091000,2223875.47,2198089.34
+36,Male,Bachelor's,Machine Learning Engineer,11,Remote / Tier 2 Cities,2059000,2489092.62,2288033.25

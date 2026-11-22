@@ -1,0 +1,109 @@
+{
+    "primary_model": "Random Forest Regressor",
+    "r2_score": 0.9024580523204072,
+    "mae": 247820.91766770073,
+    "rmse": 305972.23621101707,
+    "test_samples": 200,
+    "random_forest": {
+        "r2_score": 0.9024580523204072,
+        "mae": 247820.91766770073,
+        "rmse": 305972.23621101707
+    },
+    "linear_regression": {
+        "r2_score": 0.9385351944391973,
+        "mae": 200563.7828245271,
+        "rmse": 242884.36825963992
+    },
+    "grouped_feature_importances": {
+        "Years of Experience": 65.47,
+        "Age": 24.07,
+        "Job Title": 6.54,
+        "Education Level": 1.97,
+        "Area": 1.52,
+        "Gender": 0.44
+    },
+    "detailed_feature_importances": {
+        "Years of Experience": 65.47,
+        "Age": 24.07,
+        "Job Title_Engineering Manager": 2.42,
+        "Job Title_HR Specialist": 1.03,
+        "Job Title_Product Manager": 0.99,
+        "Education Level_Bachelor's": 0.71,
+        "Education Level_PhD": 0.63,
+        "Job Title_Data Analyst": 0.45,
+        "Education Level_Master's": 0.45,
+        "Job Title_Software Engineer": 0.4,
+        "Job Title_Senior Software Engineer": 0.33,
+        "Job Title_Machine Learning Engineer": 0.31,
+        "Area_Bangalore": 0.31,
+        "Area_Remote / Tier 2 Cities": 0.31,
+        "Area_Delhi-NCR": 0.23,
+        "Gender_Female": 0.23,
+        "Job Title_Financial Analyst": 0.22,
+        "Area_Mumbai": 0.22,
+        "Area_Pune": 0.2,
+        "Job Title_DevOps Engineer": 0.2,
+        "Gender_Male": 0.19,
+        "Job Title_Data Scientist": 0.18,
+        "Area_Hyderabad": 0.17,
+        "Education Level_High School": 0.17,
+        "Area_Chennai": 0.08,
+        "Gender_Other": 0.02
+    },
+    "features": {
+        "Age": {
+            "type": "numeric",
+            "min": 18,
+            "max": 62
+        },
+        "Gender": {
+            "type": "categorical",
+            "options": [
+                "Female",
+                "Male",
+                "Other"
+            ]
+        },
+        "Education Level": {
+            "type": "categorical",
+            "options": [
+                "High School",
+                "Bachelor's",
+                "Master's",
+                "PhD"
+            ]
+        },
+        "Job Title": {
+            "type": "categorical",
+            "options": [
+                "Data Analyst",
+                "Data Scientist",
+                "DevOps Engineer",
+                "Engineering Manager",
+                "Financial Analyst",
+                "HR Specialist",
+                "Machine Learning Engineer",
+                "Product Manager",
+                "Senior Software Engineer",
+                "Software Engineer"
+            ]
+        },
+        "Years of Experience": {
+            "type": "numeric",
+            "min": 0,
+            "max": 34
+        },
+        "Area": {
+            "type": "categorical",
+            "options": [
+                "Bangalore",
+                "Chennai",
+                "Delhi-NCR",
+                "Hyderabad",
+                "Mumbai",
+                "Pune",
+                "Remote / Tier 2 Cities"
+            ]
+        }
+    }
+}
