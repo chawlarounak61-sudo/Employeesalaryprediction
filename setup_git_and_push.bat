@@ -6,22 +6,17 @@ echo ==========================================================
 echo.
 cd /d "%~dp0"
 
+set "PATH=%PATH%;C:\Program Files\Git\cmd;C:\Program Files\Git\bin"
+
 where git >nul 2>&1
 if %errorlevel% neq 0 (
-    echo [ERROR] Git is not installed or not in your PATH.
-    echo.
-    echo Please install Git for Windows from:
-    echo https://git-scm.com/download/win
-    echo.
-    echo Opening Git download page in your browser...
-    start https://git-scm.com/download/win
-    echo.
-    echo After installing Git, restart this script!
+    echo [ERROR] Git could not be located.
     pause
     exit /b 1
 )
 
-echo [OK] Git is installed.
+echo [OK] Git is ready:
+git --version
 echo.
 
 set /p REPO_URL="Enter your remote GitHub repository URL (e.g. https://github.com/username/repo.git): "
@@ -33,23 +28,18 @@ if "%REPO_URL%"=="" (
 )
 
 echo.
-echo [1/5] Initializing Git repository...
-if not exist ".git" (
-    git init
-)
-
-echo [2/5] Staging files...
+echo [1/4] Ensuring files are staged and committed...
 git add .
+git commit -m "Update: Enterprise Employee Salary Prediction System" >nul 2>&1
 
-echo [3/5] Creating commit...
-git commit -m "Initial commit: Enterprise Employee Salary Prediction System (SalaryIQ)"
-
-echo [4/5] Setting main branch and remote origin...
+echo [2/4] Setting main branch...
 git branch -M main
+
+echo [3/4] Setting remote origin...
 git remote remove origin >nul 2>&1
 git remote add origin %REPO_URL%
 
-echo [5/5] Pushing to GitHub...
+echo [4/4] Pushing code to GitHub (main branch)...
 echo.
 git push -u origin main
 
@@ -61,9 +51,8 @@ if %errorlevel% equ 0 (
     echo ==========================================================
 ) else (
     echo.
-    echo [NOTE] If this is your first time connecting, GitHub may ask
-    echo you to authenticate in the browser or terminal.
-    echo You can also re-run: git push -u origin main
+    echo [INFO] If GitHub prompted for login in your browser, please
+    echo approve the sign-in and run: git push -u origin main
 )
 
 echo.
